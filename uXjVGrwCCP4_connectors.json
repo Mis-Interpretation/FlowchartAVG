@@ -1,0 +1,4758 @@
+[
+  {
+    "id": "3458764665303764398",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665303764398"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665303764135"
+      },
+      "id": "3458764665303764135",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665303764397"
+      },
+      "id": "3458764665303764397",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-26T12:05:27Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-26T12:05:27Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665303867884",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665303867884"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665303764397"
+      },
+      "id": "3458764665303764397",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665303867882"
+      },
+      "id": "3458764665303867882",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-26T12:06:42Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-26T12:06:42Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665304206484",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665304206484"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665303867882"
+      },
+      "id": "3458764665303867882",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665304206447"
+      },
+      "id": "3458764665304206447",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-26T12:08:30Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-26T12:08:30Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665304206507",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665304206507"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665304206447"
+      },
+      "id": "3458764665304206447",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665303867882"
+      },
+      "id": "3458764665303867882",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-26T12:08:35Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-26T12:28:04Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665308741817",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665308741817"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665303867882"
+      },
+      "id": "3458764665303867882",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665308741377"
+      },
+      "id": "3458764665308741377",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-26T12:33:19Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-26T12:33:19Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665308954089",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665308954089"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665308741377"
+      },
+      "id": "3458764665308741377",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665307775657"
+      },
+      "id": "3458764665307775657",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-26T12:33:34Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-26T12:33:34Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665313105048",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665313105048"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665312795657"
+      },
+      "id": "3458764665312795657",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665313104954"
+      },
+      "id": "3458764665313104954",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-26T12:55:00Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T02:57:58Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665313554112",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665313554112"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665313104954"
+      },
+      "id": "3458764665313104954",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665312795657"
+      },
+      "id": "3458764665312795657",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-26T12:57:19Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T02:57:58Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665317147608",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665317147608"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665308741377"
+      },
+      "id": "3458764665308741377",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665308403468"
+      },
+      "id": "3458764665308403468",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-26T13:16:50Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-26T13:16:50Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665415762072",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665415762072"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665415762071"
+      },
+      "id": "3458764665415762071",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665415762069"
+      },
+      "id": "3458764665415762069",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T01:57:00Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T02:49:18Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665415762073",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665415762073"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665415762071"
+      },
+      "id": "3458764665415762071",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665415762070"
+      },
+      "id": "3458764665415762070",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T01:57:00Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T02:49:18Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665415762288",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665415762288"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665304997240"
+      },
+      "id": "3458764665304997240",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665415762071"
+      },
+      "id": "3458764665415762071",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T01:57:24Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T02:49:18Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665415913285",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665415913285"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665415762069"
+      },
+      "id": "3458764665415762069",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665415913116"
+      },
+      "id": "3458764665415913116",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T02:00:50Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T02:49:18Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665417997979",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665417997979"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665417898749"
+      },
+      "id": "3458764665417898749",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665417997987"
+      },
+      "id": "3458764665417997987",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T02:56:32Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T03:01:53Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665417998736",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665417998736"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665312795657"
+      },
+      "id": "3458764665312795657",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T02:58:11Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "isSupported": false,
+    "modifiedAt": "2026-03-27T02:58:11Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665418164258",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665418164258"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665305457067"
+      },
+      "id": "3458764665305457067",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665417898749"
+      },
+      "id": "3458764665417898749",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T03:01:41Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T03:01:41Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665418255143",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665418255143"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665418255142"
+      },
+      "id": "3458764665418255142",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665418255140"
+      },
+      "id": "3458764665418255140",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T03:03:35Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T03:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665418255144",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665418255144"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665418255142"
+      },
+      "id": "3458764665418255142",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665418255141"
+      },
+      "id": "3458764665418255141",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T03:03:35Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T03:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665418255171",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665418255171"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665305457067"
+      },
+      "id": "3458764665305457067",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665418255142"
+      },
+      "id": "3458764665418255142",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T03:03:44Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T03:03:44Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665419348261",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665419348261"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665304997419"
+      },
+      "id": "3458764665304997419",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419348228"
+      },
+      "id": "3458764665419348228",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T03:32:10Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T03:32:10Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665419348571",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665419348571"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665307775657"
+      },
+      "id": "3458764665307775657",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419348452"
+      },
+      "id": "3458764665419348452",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T03:32:37Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T03:32:37Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665419576148",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665419576148"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419495521"
+      },
+      "id": "3458764665419495521",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419495793"
+      },
+      "id": "3458764665419495793",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T03:37:32Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T04:16:19Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665419661934",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665419661934"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665417997987"
+      },
+      "id": "3458764665417997987",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419576880"
+      },
+      "id": "3458764665419576880",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T03:39:16Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T03:39:16Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665419662245",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665419662245"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419576455"
+      },
+      "id": "3458764665419576455",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419576038"
+      },
+      "id": "3458764665419576038",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T03:39:58Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T04:16:19Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665420226313",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665420226313"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419348228"
+      },
+      "id": "3458764665419348228",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665420226311"
+      },
+      "id": "3458764665420226311",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T03:53:29Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T03:53:38Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665420226314",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665420226314"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419348228"
+      },
+      "id": "3458764665419348228",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665420226312"
+      },
+      "id": "3458764665420226312",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T03:53:29Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T03:53:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665420447718",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665420447718"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419744186"
+      },
+      "id": "3458764665419744186",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665420447657"
+      },
+      "id": "3458764665420447657",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T04:00:44Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T05:52:26Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665420447890",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665420447890"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419495793"
+      },
+      "id": "3458764665419495793",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419576455"
+      },
+      "id": "3458764665419576455",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T04:01:18Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T04:16:19Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665420601086",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665420601086"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419576455"
+      },
+      "id": "3458764665419576455",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419744189"
+      },
+      "id": "3458764665419744189",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T04:01:39Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T04:16:19Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#fe9f4d"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665420601393",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665420601393"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419744189"
+      },
+      "id": "3458764665419744189",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665420601305"
+      },
+      "id": "3458764665420601305",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T04:02:33Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T04:16:19Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665420682340",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665420682340"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419576038"
+      },
+      "id": "3458764665419576038",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419744186"
+      },
+      "id": "3458764665419744186",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T04:03:54Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T04:16:19Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#bd0a0a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665420682800",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665420682800"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419744186"
+      },
+      "id": "3458764665419744186",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419744183"
+      },
+      "id": "3458764665419744183",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T04:05:34Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T04:16:19Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#067429"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665421034039",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665421034039"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665420447657"
+      },
+      "id": "3458764665420447657",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665421034043"
+      },
+      "id": "3458764665421034043",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T04:11:46Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T04:16:19Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665421034440",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665421034440"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419495521"
+      },
+      "id": "3458764665419495521",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419744183"
+      },
+      "id": "3458764665419744183",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T04:12:54Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T06:07:38Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#fe9f4d"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665421034518",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665421034518"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665420447657"
+      },
+      "id": "3458764665420447657",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665420080148"
+      },
+      "id": "3458764665420080148",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T04:13:10Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T04:16:19Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#bd0a0a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665421034624",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665421034624"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665420080148"
+      },
+      "id": "3458764665420080148",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665421034631"
+      },
+      "id": "3458764665421034631",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T04:13:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T04:16:19Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665421783688",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665421783688"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665417998795"
+      },
+      "id": "3458764665417998795",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665421783697"
+      },
+      "id": "3458764665421783697",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T04:28:42Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T04:28:43Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665422303249",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665422303249"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665420080148"
+      },
+      "id": "3458764665420080148",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665421034805"
+      },
+      "id": "3458764665421034805",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T04:41:17Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T04:47:55Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665422893078",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665422893078"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665422892988"
+      },
+      "id": "3458764665422892988",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665421783512"
+      },
+      "id": "3458764665421783512",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T04:56:37Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T04:56:37Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665422893535",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665422893535"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665422892988"
+      },
+      "id": "3458764665422892988",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665422893507"
+      },
+      "id": "3458764665422893507",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T04:58:17Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T04:58:17Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665422893740",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665422893740"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665421783697"
+      },
+      "id": "3458764665421783697",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665422893741"
+      },
+      "id": "3458764665422893741",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T04:59:12Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T04:59:14Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665423304742",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665423304742"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665421034805"
+      },
+      "id": "3458764665421034805",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665423304741"
+      },
+      "id": "3458764665423304741",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T05:08:50Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T05:08:50Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665423614305",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665423614305"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419495521"
+      },
+      "id": "3458764665419495521",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665423614319"
+      },
+      "id": "3458764665423614319",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T05:15:43Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T05:15:45Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665425252640",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665425252640"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665420447657"
+      },
+      "id": "3458764665420447657",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419744186"
+      },
+      "id": "3458764665419744186",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T05:52:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T05:52:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#fe9f4d"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665425296208",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665425296208"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665421782956"
+      },
+      "id": "3458764665421782956",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665423614083"
+      },
+      "id": "3458764665423614083",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T05:53:32Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:01:48Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#ff6464"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665425758430",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665425758430"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665424520256"
+      },
+      "id": "3458764665424520256",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665420080148"
+      },
+      "id": "3458764665420080148",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T06:02:03Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T06:07:15Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665425851969",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665425851969"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665421034805"
+      },
+      "id": "3458764665421034805",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665420080148"
+      },
+      "id": "3458764665420080148",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T06:03:12Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T06:03:12Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665425852752",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665425852752"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665423614083"
+      },
+      "id": "3458764665423614083",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665421782956"
+      },
+      "id": "3458764665421782956",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T06:04:40Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T06:04:40Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665433443412",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665433443412"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665421782956"
+      },
+      "id": "3458764665421782956",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665424520256"
+      },
+      "id": "3458764665424520256",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T07:48:41Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T07:48:50Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#fe9f4d"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665433443890",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665433443890"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665423614083"
+      },
+      "id": "3458764665423614083",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665423614062"
+      },
+      "id": "3458764665423614062",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T07:49:11Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T07:49:51Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#fe9f4d"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665445071273",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665445071273"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665421034631"
+      },
+      "id": "3458764665421034631",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665445071281"
+      },
+      "id": "3458764665445071281",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T09:29:58Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T09:29:59Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665446343857",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665446343857"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665421034631"
+      },
+      "id": "3458764665421034631",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665446343520"
+      },
+      "id": "3458764665446343520",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T09:40:41Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T09:40:41Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665446574083",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665446574083"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665421034631"
+      },
+      "id": "3458764665421034631",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665446343862"
+      },
+      "id": "3458764665446343862",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T09:41:04Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T09:41:04Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665451108741",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665451108741"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665423304741"
+      },
+      "id": "3458764665423304741",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T10:17:42Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "isSupported": false,
+    "modifiedAt": "2026-03-27T10:23:21Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665453008950",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665453008950"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665423474124"
+      },
+      "id": "3458764665423474124",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665453009182"
+      },
+      "id": "3458764665453009182",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T10:31:19Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T10:39:40Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665453009172",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665453009172"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665453009048"
+      },
+      "id": "3458764665453009048",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419495521"
+      },
+      "id": "3458764665419495521",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T10:31:46Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T10:31:46Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665459783091",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665459783091"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665459552865"
+      },
+      "id": "3458764665459552865",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665459783101"
+      },
+      "id": "3458764665459783101",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T11:28:08Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T11:48:54Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665459783207",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665459783207"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665459783101"
+      },
+      "id": "3458764665459783101",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665459783206"
+      },
+      "id": "3458764665459783206",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T11:28:19Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T11:48:54Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665460211485",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665460211485"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665460211200"
+      },
+      "id": "3458764665460211200",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665460211491"
+      },
+      "id": "3458764665460211491",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T11:32:34Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T11:48:54Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665460617074",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665460617074"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665459552865"
+      },
+      "id": "3458764665459552865",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665460211200"
+      },
+      "id": "3458764665460211200",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T11:34:59Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T11:48:54Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665460617798",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665460617798"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665459783206"
+      },
+      "id": "3458764665459783206",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665459783468"
+      },
+      "id": "3458764665459783468",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T11:35:11Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T11:48:54Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665460689970",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665460689970"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665459783468"
+      },
+      "id": "3458764665459783468",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665459552865"
+      },
+      "id": "3458764665459552865",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T11:35:23Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T11:48:54Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665461048548",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665461048548"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665460211491"
+      },
+      "id": "3458764665460211491",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665459552865"
+      },
+      "id": "3458764665459552865",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T11:38:32Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T11:53:20Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665462335859",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665462335859"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665462335796"
+      },
+      "id": "3458764665462335796",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665462335857"
+      },
+      "id": "3458764665462335857",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T11:49:23Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T11:50:46Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665462486143",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665462486143"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665462335857"
+      },
+      "id": "3458764665462335857",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "captions": [
+      {
+        "content": "<p>我是【梦】</p>",
+        "position": "63.3685%",
+        "textAlignVertical": "middle"
+      }
+    ],
+    "createdAt": "2026-03-27T11:49:48Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "isSupported": false,
+    "modifiedAt": "2026-03-27T11:50:46Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a",
+      "color": "#1a1a1a",
+      "textOrientation": "horizontal",
+      "fontSize": "14"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665462486430",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665462486430"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665462335857"
+      },
+      "id": "3458764665462335857",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "captions": [
+      {
+        "content": "<p>我是【床】</p>",
+        "position": "56.2927%",
+        "textAlignVertical": "middle"
+      }
+    ],
+    "createdAt": "2026-03-27T11:50:02Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "isSupported": false,
+    "modifiedAt": "2026-03-27T11:50:46Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a",
+      "color": "#1a1a1a",
+      "textOrientation": "horizontal",
+      "fontSize": "14"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665462652669",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665462652669"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665462486625"
+      },
+      "id": "3458764665462486625",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665462335796"
+      },
+      "id": "3458764665462335796",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "captions": [
+      {
+        "content": "<p>放下万花筒</p>",
+        "position": "44.7379%",
+        "textAlignVertical": "middle"
+      }
+    ],
+    "createdAt": "2026-03-27T11:52:02Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T11:52:34Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a",
+      "color": "#1a1a1a",
+      "textOrientation": "horizontal",
+      "fontSize": "14"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665462652754",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665462652754"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665462486491"
+      },
+      "id": "3458764665462486491",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665462335796"
+      },
+      "id": "3458764665462335796",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "captions": [
+      {
+        "content": "<p>放下万花筒</p>",
+        "position": "47.5734%",
+        "textAlignVertical": "middle"
+      }
+    ],
+    "createdAt": "2026-03-27T11:52:10Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T11:52:27Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a",
+      "color": "#1a1a1a",
+      "textOrientation": "horizontal",
+      "fontSize": "14"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464406988",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464406988"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406985"
+      },
+      "id": "3458764665464406985",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406986"
+      },
+      "id": "3458764665464406986",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464406990",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464406990"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406989"
+      },
+      "id": "3458764665464406989",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406987"
+      },
+      "id": "3458764665464406987",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407003",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407003"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406994"
+      },
+      "id": "3458764665464406994",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407002"
+      },
+      "id": "3458764665464407002",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407004",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407004"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406986"
+      },
+      "id": "3458764665464406986",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406989"
+      },
+      "id": "3458764665464406989",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407005",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407005"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406989"
+      },
+      "id": "3458764665464406989",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406995"
+      },
+      "id": "3458764665464406995",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#fe9f4d"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407007",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407007"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406995"
+      },
+      "id": "3458764665464406995",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407006"
+      },
+      "id": "3458764665464407006",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407009",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407009"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407006"
+      },
+      "id": "3458764665464407006",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406989"
+      },
+      "id": "3458764665464406989",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#fe9f4d"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407010",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407010"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406987"
+      },
+      "id": "3458764665464406987",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406994"
+      },
+      "id": "3458764665464406994",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#bd0a0a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407011",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407011"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406994"
+      },
+      "id": "3458764665464406994",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406992"
+      },
+      "id": "3458764665464406992",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#067429"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407014",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407014"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407002"
+      },
+      "id": "3458764665464407002",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407013"
+      },
+      "id": "3458764665464407013",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407015",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407015"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406985"
+      },
+      "id": "3458764665464406985",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406992"
+      },
+      "id": "3458764665464406992",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#fe9f4d"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407016",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407016"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407002"
+      },
+      "id": "3458764665464407002",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406999"
+      },
+      "id": "3458764665464406999",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#bd0a0a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407018",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407018"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406999"
+      },
+      "id": "3458764665464406999",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407017"
+      },
+      "id": "3458764665464407017",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407022",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407022"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406999"
+      },
+      "id": "3458764665464406999",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407019"
+      },
+      "id": "3458764665464407019",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407024",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407024"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407019"
+      },
+      "id": "3458764665464407019",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407023"
+      },
+      "id": "3458764665464407023",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407030",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407030"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406985"
+      },
+      "id": "3458764665464406985",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "isSupported": false,
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407032",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407032"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407002"
+      },
+      "id": "3458764665464407002",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406994"
+      },
+      "id": "3458764665464406994",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#fe9f4d"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407033",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407033"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407021"
+      },
+      "id": "3458764665464407021",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407029"
+      },
+      "id": "3458764665464407029",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#ff6464"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407034",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407034"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407031"
+      },
+      "id": "3458764665464407031",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406999"
+      },
+      "id": "3458764665464406999",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407035",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407035"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407019"
+      },
+      "id": "3458764665464407019",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406999"
+      },
+      "id": "3458764665464406999",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407036",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407036"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407029"
+      },
+      "id": "3458764665464407029",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407021"
+      },
+      "id": "3458764665464407021",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407037",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407037"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407028"
+      },
+      "id": "3458764665464407028",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407025"
+      },
+      "id": "3458764665464407025",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407038",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407038"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407021"
+      },
+      "id": "3458764665464407021",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407031"
+      },
+      "id": "3458764665464407031",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#fe9f4d"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407039",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407039"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407029"
+      },
+      "id": "3458764665464407029",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407028"
+      },
+      "id": "3458764665464407028",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#fe9f4d"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407041",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407041"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407017"
+      },
+      "id": "3458764665464407017",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407040"
+      },
+      "id": "3458764665464407040",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407043",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407043"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407017"
+      },
+      "id": "3458764665464407017",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407042"
+      },
+      "id": "3458764665464407042",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407045",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407045"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407017"
+      },
+      "id": "3458764665464407017",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407044"
+      },
+      "id": "3458764665464407044",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407050",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407050"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407023"
+      },
+      "id": "3458764665464407023",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "isSupported": false,
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "elbowed",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407055",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407055"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407054"
+      },
+      "id": "3458764665464407054",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406985"
+      },
+      "id": "3458764665464406985",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407057",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407057"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407025"
+      },
+      "id": "3458764665464407025",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407056"
+      },
+      "id": "3458764665464407056",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407062",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407062"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407002"
+      },
+      "id": "3458764665464407002",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407021"
+      },
+      "id": "3458764665464407021",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T12:04:31Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:04:36Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407194",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407194"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406985"
+      },
+      "id": "3458764665464406985",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407199"
+      },
+      "id": "3458764665464407199",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T12:05:18Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:05:20Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#ff6464"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407220",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407220"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406989"
+      },
+      "id": "3458764665464406989",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407225"
+      },
+      "id": "3458764665464407225",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T12:05:28Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:05:29Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#ff6464"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665464407335",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665464407335"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464406987"
+      },
+      "id": "3458764665464406987",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665464407343"
+      },
+      "id": "3458764665464407343",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-27T12:05:54Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T12:05:55Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#ff6464"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665480936961",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665480936961"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665421034043"
+      },
+      "id": "3458764665421034043",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665421782956"
+      },
+      "id": "3458764665421782956",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T13:52:35Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T13:52:40Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#333333"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665482004337",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665482004337"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665420601305"
+      },
+      "id": "3458764665420601305",
+      "position": {
+        "x": "0%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665419744189"
+      },
+      "id": "3458764665419744189",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "createdAt": "2026-03-27T13:58:48Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-27T13:58:48Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665620812434",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665620812434"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665423614062"
+      },
+      "id": "3458764665423614062",
+      "position": {
+        "x": "50%",
+        "y": "0%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665620812279"
+      },
+      "id": "3458764665620812279",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-29T02:04:51Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-29T02:05:08Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  },
+  {
+    "id": "3458764665620812479",
+    "links": {
+      "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/connectors/3458764665620812479"
+    },
+    "startItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665620812279"
+      },
+      "id": "3458764665620812279",
+      "position": {
+        "x": "100%",
+        "y": "50%"
+      }
+    },
+    "endItem": {
+      "links": {
+        "self": "https://api.miro.com/v2/boards/uXjVGrwCCP4%3D/items/3458764665423474124"
+      },
+      "id": "3458764665423474124",
+      "position": {
+        "x": "50%",
+        "y": "100%"
+      }
+    },
+    "createdAt": "2026-03-29T02:05:00Z",
+    "createdBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "modifiedAt": "2026-03-29T02:05:05Z",
+    "modifiedBy": {
+      "id": "3458764664765542843",
+      "type": "user"
+    },
+    "shape": "curved",
+    "style": {
+      "startStrokeCap": "none",
+      "endStrokeCap": "rounded_stealth",
+      "strokeWidth": "2.0",
+      "strokeStyle": "normal",
+      "strokeColor": "#1a1a1a"
+    },
+    "type": "connector"
+  }
+]

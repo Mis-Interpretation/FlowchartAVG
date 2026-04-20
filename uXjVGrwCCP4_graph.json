@@ -1,0 +1,5095 @@
+{
+  "nodes": [
+    {
+      "id": "3458764665303764135",
+      "type": "shape",
+      "content_html": "<p><span style=\"color: rgb(26, 26, 26);\">游戏</span>​<span style=\"color: rgb(26, 26, 26);\">开始</span>​</p>",
+      "content_text": "游戏​开始​",
+      "position": {
+        "x": -162.0,
+        "y": 0.0,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665303764397",
+      "type": "shape",
+      "content_html": "<p>【​导入​】</p>",
+      "content_text": "【​导入​】",
+      "position": {
+        "x": 158.0,
+        "y": 0.0,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665303764905",
+      "type": "text",
+      "content_html": "<p>此​时​需要​一​段​NPC​对​话​</p><p>【​参考草稿本​P7​】</p>",
+      "content_text": "此​时​需要​一​段​NPC​对​话​\n【​参考草稿本​P7​】",
+      "position": {
+        "x": 160.5,
+        "y": 96.0,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 141.0
+      }
+    },
+    {
+      "id": "3458764665303867882",
+      "type": "shape",
+      "content_html": "<p>​床​</p>",
+      "content_text": "​床​",
+      "position": {
+        "x": 478.0,
+        "y": 0.0,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665304002043",
+      "type": "text",
+      "content_html": "<p>【​描述&#xff1a;​】</p><p>​</p><p>一​张​床.​.....</p><p>​从​睡梦​中​醒来​时​</p><p>床​在​身下​</p><p>长​出柔软​的​根系​</p>",
+      "content_text": "【​描述：​】\n​\n一​张​床.​.....\n​从​睡梦​中​醒来​时​\n床​在​身下​\n长​出柔软​的​根系​",
+      "position": {
+        "x": 478.0,
+        "y": 127.32142857142857,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 141.0
+      }
+    },
+    {
+      "id": "3458764665304206447",
+      "type": "shape",
+      "content_html": "<p><span>NPC</span>​对话，​获取​关键​名​词【​床】​和​关键​状态​【梦​中​】</p>",
+      "content_text": "NPC​对话，​获取​关键​名​词【​床】​和​关键​状态​【梦​中​】",
+      "position": {
+        "x": 478.00000000000006,
+        "y": -321.0899999999999,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 100.0
+      }
+    },
+    {
+      "id": "3458764665304206596",
+      "type": "text",
+      "content_html": "<p><span style=\"color:rgb(48,91,171)\">第一</span>​<span style=\"color:rgb(48,91,171)\">次</span>​</p><p><span style=\"color:rgb(48,91,171)\">来到</span>​<span style=\"color:rgb(48,91,171)\">这里</span>​<span style=\"color:rgb(48,91,171)\">时</span></p>",
+      "content_text": "第一​次​\n来到​这里​时",
+      "position": {
+        "x": 433.50000000000006,
+        "y": -124.83999999999997,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 71.0
+      }
+    },
+    {
+      "id": "3458764665304997240",
+      "type": "shape",
+      "content_html": "<p>窗</p>",
+      "content_text": "窗",
+      "position": {
+        "x": 1787.6870280138714,
+        "y": -15.506511068816032,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665304997419",
+      "type": "shape",
+      "content_html": "<p><span>门</span></p>",
+      "content_text": "门",
+      "position": {
+        "x": 1288.0027481397442,
+        "y": -15.506511068816035,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665305457067",
+      "type": "shape",
+      "content_html": "<p><span>书架</span></p>",
+      "content_text": "书架",
+      "position": {
+        "x": 2300.9974450731224,
+        "y": -38.118744809697716,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665305457241",
+      "type": "text",
+      "content_html": "<p>书架​上​有​三​本​书。​</p><p><br /></p><p>【​可以​直接​在​当前​页展​开​】​</p><p>(​做​一​个​wire翻​书​小​动画​吧&#xff01;&#xff09;​</p><p>*​“我”​读到​了​一​个​xx​xx​的​故事。​</p><p>故事​结束​了。​</p><p><br /></p><p>​</p>",
+      "content_text": "书架​上​有​三​本​书。​\n\n\n【​可以​直接​在​当前​页展​开​】​\n(​做​一​个​wire翻​书​小​动画​吧！）​\n*​“我”​读到​了​一​个​xx​xx​的​故事。​\n故事​结束​了。​\n\n\n​",
+      "position": {
+        "x": 2237.3668466673357,
+        "y": -220.2535586178958,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 248.97831633
+      }
+    },
+    {
+      "id": "3458764665306527614",
+      "type": "text",
+      "content_html": "<p>注&#xff1a;​巴比伦塔​是​一​种​sp​iral ​up&#xff0c;​</p><p>然后​你​一生​的​故事​的​七枝桶​的​文字​也​是​一​个​可以​转转​的​圈&#xff0c;​因为​他们​没有​时间​的​概念。​</p><p><br /></p><p>​两​个​故事​都​可以​是​“转​了​一​圈​又​回到​原点&#xff0c;​因为​时间​没有​意义&#xff0c;​生命​在​于​静止。”​</p>",
+      "content_text": "注：​巴比伦塔​是​一​种​sp​iral ​up，​\n然后​你​一生​的​故事​的​七枝桶​的​文字​也​是​一​个​可以​转转​的​圈，​因为​他们​没有​时间​的​概念。​\n\n\n​两​个​故事​都​可以​是​“转​了​一​圈​又​回到​原点，​因为​时间​没有​意义，​生命​在​于​静止。”​",
+      "position": {
+        "x": 2450.175201571011,
+        "y": -220.25355861789586,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 215.0
+      }
+    },
+    {
+      "id": "3458764665307220026",
+      "type": "text",
+      "content_html": "<p><strong style=\"color:rgb(255,100,100)\">C:\\Users\\Admin\\Documents\\Twine\\Stories</strong></p>",
+      "content_text": "C:\\Users\\Admin\\Documents\\Twine\\Stories",
+      "position": {
+        "x": 12.571428571428562,
+        "y": -311.6070716387964,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 509.1428571428571
+      }
+    },
+    {
+      "id": "3458764665307775657",
+      "type": "shape",
+      "content_html": "<p><span style=\"background-color: transparent;\">梦</span>​<span style=\"background-color: transparent;\">中</span>​<span style=\"background-color: transparent;\">床</span></p><p>[[​直接​跳转回【​床​】|床]]</p>",
+      "content_text": "梦​中​床\n[[​直接​跳转回【​床​】|床]]",
+      "position": {
+        "x": 754.2174326295403,
+        "y": 471.1993110688161,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665307888904",
+      "type": "text",
+      "content_html": "<p>【​描述&#xff1a;​】</p><p>​</p><p>一​张​床.​.....</p><p>​从​睡梦​中​醒来​时​</p><p>床​在​身下​</p><p>长​出柔软​的​根系​</p>",
+      "content_text": "【​描述：​】\n​\n一​张​床.​.....\n​从​睡梦​中​醒来​时​\n床​在​身下​\n长​出柔软​的​根系​",
+      "position": {
+        "x": 754.2174326295403,
+        "y": 605.4138335177955,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 141.0
+      }
+    },
+    {
+      "id": "3458764665308403468",
+      "type": "shape",
+      "content_html": "<p>我​是​床</p><p>​[[​直接​跳转回【​床​】|床]]</p>",
+      "content_text": "我​是​床\n​[[​直接​跳转回【​床​】|床]]",
+      "position": {
+        "x": 478.0,
+        "y": 471.1993110688161,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665308403607",
+      "type": "text",
+      "content_html": "<p>【描述​事例&#xff1a;​】</p><p>​</p><p>身​上​的​人类​总是​兽性​大​发</p><p>​一​觉​睡24​个​小时​</p>",
+      "content_text": "【描述​事例：​】\n​\n身​上​的​人类​总是​兽性​大​发\n​一​觉​睡24​个​小时​",
+      "position": {
+        "x": 481.5,
+        "y": 590.1969967831017,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 167.0
+      }
+    },
+    {
+      "id": "3458764665308741377",
+      "type": "shape",
+      "content_html": "<p>万​花​筒</p>",
+      "content_text": "万​花​筒",
+      "position": {
+        "x": 619.094122131338,
+        "y": 191.97250652942995,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 200.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665308954400",
+      "type": "shape",
+      "content_html": "<p><span style=\"color:rgb(255,220,74)\"></span></p>",
+      "content_text": "",
+      "position": {
+        "x": 600.7758681397445,
+        "y": 142.38120435975566,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 534.4537599999996,
+        "height": 1142.7875839999992
+      }
+    },
+    {
+      "id": "3458764665309126999",
+      "type": "text",
+      "content_html": "<p>算​是​新手​教​程区&#xff1f;​</p><p><br /></p><p>​一般来​说​不​会​回到​这里&#xff0c;​但是​可以​给​主角​加个​对话​陷阱&#xff0c;​“我​想​回床​上​躺​着”​ 然后​我们​就​完蛋​了​&#xff08;得​从头跑​一​遍​路径&#xff09;​</p>",
+      "content_text": "算​是​新手​教​程区？​\n\n\n​一般来​说​不​会​回到​这里，​但是​可以​给​主角​加个​对话​陷阱，​“我​想​回床​上​躺​着”​ 然后​我们​就​完蛋​了​（得​从头跑​一​遍​路径）​",
+      "position": {
+        "x": 498.5750583785241,
+        "y": 807.6462851511044,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 220.06104425
+      }
+    },
+    {
+      "id": "3458764665312795657",
+      "type": "shape",
+      "content_html": "<p><span>尸体</span></p>",
+      "content_text": "尸体",
+      "position": {
+        "x": 3816.3777982051893,
+        "y": -15.50651106881603,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665313104954",
+      "type": "shape",
+      "content_html": "<p>NPC​对​话</p><p>​参考草稿P7</p><p>&amp; 草稿P5</p>",
+      "content_text": "NPC​对​话\n​参考草稿P7\n& 草稿P5",
+      "position": {
+        "x": 3816.3777982051893,
+        "y": -363.82712177026633,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 100.0
+      }
+    },
+    {
+      "id": "3458764665313105085",
+      "type": "text",
+      "content_html": "<p><span style=\"color:rgb(48,91,171)\">第一</span>​<span style=\"color:rgb(48,91,171)\">次</span>​</p><p><span style=\"color:rgb(48,91,171)\">来到</span>​<span style=\"color:rgb(48,91,171)\">这里</span>​<span style=\"color:rgb(48,91,171)\">时</span></p>",
+      "content_text": "第一​次​\n来到​这里​时",
+      "position": {
+        "x": 3771.8777982051893,
+        "y": -164.84,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 71.0
+      }
+    },
+    {
+      "id": "3458764665316988201",
+      "type": "shape",
+      "content_html": "<p>电脑​  ​[[​电脑​|C​开始​]]</p>",
+      "content_text": "电脑​  ​[[​电脑​|C​开始​]]",
+      "position": {
+        "x": 1545.1022837415735,
+        "y": -581.5019520093514,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665317215576",
+      "type": "text",
+      "content_html": "<p>我​是​床</p>",
+      "content_text": "我​是​床",
+      "position": {
+        "x": 509.73324669257715,
+        "y": 309.86122172479355,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 43.0
+      }
+    },
+    {
+      "id": "3458764665317215683",
+      "type": "text",
+      "content_html": "<p>我​在​梦​中​</p>",
+      "content_text": "我​在​梦​中​",
+      "position": {
+        "x": 702.7174326295403,
+        "y": 309.86122172479355,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 57.0
+      }
+    },
+    {
+      "id": "3458764665415762069",
+      "type": "shape",
+      "content_html": "<p><span style=\"background-color: transparent;\">梦</span>​<span style=\"background-color: transparent;\">中</span>​窗</p><p>[[​直接​跳转回【​窗​】|窗]]</p>",
+      "content_text": "梦​中​窗\n[[​直接​跳转回【​窗​】|窗]]",
+      "position": {
+        "x": 1922.8103385120735,
+        "y": 496.85124722931243,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665415762070",
+      "type": "shape",
+      "content_html": "<p>我​是​窗</p><p>​[[​直接​跳转回【​窗​】|窗]]</p>",
+      "content_text": "我​是​窗\n​[[​直接​跳转回【​窗​】|窗]]",
+      "position": {
+        "x": 1646.5929058825336,
+        "y": 496.85124722931243,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665415762071",
+      "type": "shape",
+      "content_html": "<p>万​花​筒</p>",
+      "content_text": "万​花​筒",
+      "position": {
+        "x": 1787.6870280138714,
+        "y": 217.62444268992638,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 200.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665415762074",
+      "type": "text",
+      "content_html": "<p>我​是​窗</p>",
+      "content_text": "我​是​窗",
+      "position": {
+        "x": 1678.3261525751109,
+        "y": 335.51315788528996,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 43.0
+      }
+    },
+    {
+      "id": "3458764665415762075",
+      "type": "text",
+      "content_html": "<p>我​在​梦​中​</p>",
+      "content_text": "我​在​梦​中​",
+      "position": {
+        "x": 1871.310338512074,
+        "y": 335.51315788528996,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 57.0
+      }
+    },
+    {
+      "id": "3458764665415762546",
+      "type": "text",
+      "content_html": "<p>【​描述&#xff1a;​】</p><p>​用​潮汐​里面​晕​地球​&#xff08;晕太阳&#xff09;​的​那段​改一下​</p>",
+      "content_text": "【​描述：​】\n​用​潮汐​里面​晕​地球​（晕太阳）​的​那段​改一下​",
+      "position": {
+        "x": 1637.0929058825336,
+        "y": 606.9128232747152,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 141.0
+      }
+    },
+    {
+      "id": "3458764665415762695",
+      "type": "text",
+      "content_html": "<p>【​描述&#xff1a;​】</p><p>​</p><p>​星星​是​冰冷​的​玩具</p>",
+      "content_text": "【​描述：​】\n​\n​星星​是​冰冷​的​玩具",
+      "position": {
+        "x": 1913.3103385120735,
+        "y": 596.9128232747152,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 141.0
+      }
+    },
+    {
+      "id": "3458764665415913116",
+      "type": "shape",
+      "content_html": "<p>NPC​对话，​获取​关键​名​词【​玩​具】</p>",
+      "content_text": "NPC​对话，​获取​关键​名​词【​玩​具】",
+      "position": {
+        "x": 1913.3103385120735,
+        "y": 763.7749963597553,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 100.0
+      }
+    },
+    {
+      "id": "3458764665415913680",
+      "type": "sticky_note",
+      "content_html": "<p>床</p>",
+      "content_text": "床",
+      "position": {
+        "x": -178.8494587811092,
+        "y": -817.0758059173571,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665415913785",
+      "type": "sticky_note",
+      "content_html": "<p>窗</p>",
+      "content_text": "窗",
+      "position": {
+        "x": -41.946803404260805,
+        "y": -817.0758059173571,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665415913913",
+      "type": "sticky_note",
+      "content_html": "<p>门</p>",
+      "content_text": "门",
+      "position": {
+        "x": 100.51026916329387,
+        "y": -817.0758059173571,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665415969991",
+      "type": "sticky_note",
+      "content_html": "<p>电脑</p>",
+      "content_text": "电脑",
+      "position": {
+        "x": 242.81135160107556,
+        "y": -817.0758059173571,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665415970046",
+      "type": "sticky_note",
+      "content_html": "<p>书架</p>",
+      "content_text": "书架",
+      "position": {
+        "x": 385.1124340388572,
+        "y": -817.0758059173571,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665415970176",
+      "type": "sticky_note",
+      "content_html": "<p>尸体</p>",
+      "content_text": "尸体",
+      "position": {
+        "x": 527.4135164766388,
+        "y": -817.0758059173571,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665416429217",
+      "type": "sticky_note",
+      "content_html": "<p>心</p>",
+      "content_text": "心",
+      "position": {
+        "x": 669.7145989144204,
+        "y": -817.0758059173571,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665416429352",
+      "type": "sticky_note",
+      "content_html": "<p>梦中</p>",
+      "content_text": "梦中",
+      "position": {
+        "x": -178.84945878110932,
+        "y": -642.7090368442925,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665416429406",
+      "type": "sticky_note",
+      "content_html": "<p>记忆中</p>",
+      "content_text": "记忆中",
+      "position": {
+        "x": -41.946803404260805,
+        "y": -642.7090368442925,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665416468704",
+      "type": "sticky_note",
+      "content_html": "",
+      "content_text": "",
+      "position": {
+        "x": 812.0156813522021,
+        "y": -817.0758059173571,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665417599524",
+      "type": "sticky_note",
+      "content_html": "",
+      "content_text": "",
+      "position": {
+        "x": 954.3167637899838,
+        "y": -817.0758059173571,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665417599557",
+      "type": "sticky_note",
+      "content_html": "",
+      "content_text": "",
+      "position": {
+        "x": 1103.1803719652098,
+        "y": -817.0758059173571,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665417692005",
+      "type": "text",
+      "content_html": "<p><strong style=\"color:rgb(26,26,26)\"><em>电脑</em></strong>​<strong style=\"color:rgb(26,26,26)\"><em>可以</em></strong>​<strong style=\"color:rgb(26,26,26)\"><em>访问</em></strong>​<strong style=\"color:rgb(26,26,26)\"><em>环3</em></strong>​<strong style=\"color:rgb(26,26,26)\"><em>所有</em></strong>​<strong style=\"color:rgb(26,26,26)\"><em>的</em></strong>​<strong style=\"color:rgb(26,26,26)\"><em>搜索</em></strong>​<strong style=\"color:rgb(26,26,26)\"><em>词 </em></strong>​<strong style=\"color:rgb(26,26,26)\"><em>&#xff08;该</em></strong>​<strong style=\"color:rgb(26,26,26)\"><em>页面</em></strong>​<strong style=\"color:rgb(26,26,26)\"><em>可</em></strong>​单独​编辑​)</p>",
+      "content_text": "电脑​可以​访问​环3​所有​的​搜索​词 ​（该​页面​可​单独​编辑​)",
+      "position": {
+        "x": 1674.0308551701448,
+        "y": -488.52342537699883,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 417.8571428571429
+      }
+    },
+    {
+      "id": "3458764665417898749",
+      "type": "shape",
+      "content_html": "<p>万​花筒：​我​是​玩具</p>",
+      "content_text": "万​花筒：​我​是​玩具",
+      "position": {
+        "x": 2786.3110464997594,
+        "y": -38.118744809697716,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 200.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665417997987",
+      "type": "shape",
+      "content_html": "<p>文字​华容道</p><p>​（或者别​的​小游戏）​</p>",
+      "content_text": "文字​华容道\n​（或者别​的​小游戏）​",
+      "position": {
+        "x": 2786.3110464997594,
+        "y": 175.4219065461623,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665417998147",
+      "type": "text",
+      "content_html": "<p>在​【书​架】​的​位置&#xff0c;​有​一​句​话​是​断裂​的。​</p><p>在​找到​了​【玩​具】​之后&#xff0c;​回到​场​景【​书架​】</p><p>​使用万​花​筒【​我​是​玩​具】​之后​到​达​小​游戏passage。​</p><p><br /></p><p>​</p>",
+      "content_text": "在​【书​架】​的​位置，​有​一​句​话​是​断裂​的。​\n在​找到​了​【玩​具】​之后，​回到​场​景【​书架​】\n​使用万​花​筒【​我​是​玩​具】​之后​到​达​小​游戏passage。​\n\n\n​",
+      "position": {
+        "x": 3040.0929978939976,
+        "y": 21.647831739767554,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 248.97831633
+      }
+    },
+    {
+      "id": "3458764665417998795",
+      "type": "shape",
+      "content_html": "<p>万​花​筒</p>",
+      "content_text": "万​花​筒",
+      "position": {
+        "x": 3816.377798205189,
+        "y": 234.5481918203691,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 200.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665418164527",
+      "type": "text",
+      "content_html": "<p>在​【梦​中​窗】​获得​了​【玩​具】​之后​</p>",
+      "content_text": "在​【梦​中​窗】​获得​了​【玩​具】​之后​",
+      "position": {
+        "x": 2528.6433411793446,
+        "y": -59.73476849323941,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 211.0
+      }
+    },
+    {
+      "id": "3458764665418255140",
+      "type": "shape",
+      "content_html": "<p><span style=\"background-color: transparent;\">梦</span>​<span style=\"background-color: transparent;\">中</span>​书架​</p><p>[​[梦​中​书架​的​</p>",
+      "content_text": "梦​中​书架​\n[​[梦​中​书架​的​",
+      "position": {
+        "x": 2435.2957443286414,
+        "y": 416.85124722931243,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665418255141",
+      "type": "shape",
+      "content_html": "<p>我​是​书架​</p><p>[[​可以​在​这​里​读​书]​]</p>",
+      "content_text": "我​是​书架​\n[[​可以​在​这​里​读​书]​]",
+      "position": {
+        "x": 2159.0783116991015,
+        "y": 416.85124722931243,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665418255142",
+      "type": "shape",
+      "content_html": "<p>万​花​筒</p>",
+      "content_text": "万​花​筒",
+      "position": {
+        "x": 2300.1724338304393,
+        "y": 137.6244426899264,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 200.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665418255145",
+      "type": "text",
+      "content_html": "<p>我​是​书架​</p>",
+      "content_text": "我​是​书架​",
+      "position": {
+        "x": 2197.811558391679,
+        "y": 255.51315788528998,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 57.0
+      }
+    },
+    {
+      "id": "3458764665418255146",
+      "type": "text",
+      "content_html": "<p>我​在​梦​中​</p>",
+      "content_text": "我​在​梦​中​",
+      "position": {
+        "x": 2383.795744328642,
+        "y": 255.51315788528998,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 57.0
+      }
+    },
+    {
+      "id": "3458764665418255147",
+      "type": "text",
+      "content_html": "<p>【​描述&#xff1a;​】</p><p>​三​本​书</p>",
+      "content_text": "【​描述：​】\n​三​本​书",
+      "position": {
+        "x": 2149.5783116991015,
+        "y": 506.91282327471515,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 141.0
+      }
+    },
+    {
+      "id": "3458764665418255148",
+      "type": "text",
+      "content_html": "<p>【​描述&#xff1a;​】</p><p>​</p><p>​星星​是​冰冷​的​玩具</p>",
+      "content_text": "【​描述：​】\n​\n​星星​是​冰冷​的​玩具",
+      "position": {
+        "x": 2425.7957443286414,
+        "y": 516.9128232747152,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 141.0
+      }
+    },
+    {
+      "id": "3458764665418255807",
+      "type": "text",
+      "content_html": "<p>《巴比​伦塔》​</p><p>《你​一生​的​故事》​</p><p>《*绝密​*单机​发行​是​怎样​炼成​的​》​</p>",
+      "content_text": "《巴比​伦塔》​\n《你​一生​的​故事》​\n《*绝密​*单机​发行​是​怎样​炼成​的​》​",
+      "position": {
+        "x": 2178.8103385120735,
+        "y": 567.4201818942158,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 212.0
+      }
+    },
+    {
+      "id": "3458764665418634638",
+      "type": "text",
+      "content_html": "<p>在​【书​架】​的​位置&#xff0c;​有​一​句​话​是​断裂​的。​</p><p>​在​找到​了​【玩​具】​之后&#xff0c;​回到​场​景【​书架​】</p><p><br /></p><p><br /></p>",
+      "content_text": "在​【书​架】​的​位置，​有​一​句​话​是​断裂​的。​\n​在​找到​了​【玩​具】​之后，​回到​场​景【​书架​】",
+      "position": {
+        "x": 3040.0929978939976,
+        "y": 205.51315788528996,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 248.97831633
+      }
+    },
+    {
+      "id": "3458764665419348228",
+      "type": "shape",
+      "content_html": "<p>万​花​筒</p>",
+      "content_text": "万​花​筒",
+      "position": {
+        "x": 1288.0027481397442,
+        "y": 205.51315788529,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 200.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665419348452",
+      "type": "shape",
+      "content_html": "<p>NPC​对话，​获取​关键​名​词【   】</p><p>游戏​正式​开始​</p>",
+      "content_text": "NPC​对话，​获取​关键​名​词【   】\n游戏​正式​开始​",
+      "position": {
+        "x": 754.2174326295403,
+        "y": 797.6462851511044,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 100.0
+      }
+    },
+    {
+      "id": "3458764665419413215",
+      "type": "shape",
+      "content_html": "<p>心</p>",
+      "content_text": "心",
+      "position": {
+        "x": 3364.8886883038645,
+        "y": -26.81209506171217,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665419413361",
+      "type": "text",
+      "content_html": "<p>注&#xff1a;​有些​可以​通行​的​区域​是​没有​可以​获得​的​词片​的&#xff0c;​比如​说​我​去​了​厨房&#xff0c;​但是​没有​获得”​我​是​厨房&#34;​的​词片。​但是​我​可以​探索​这个​场景。​</p><p><br /></p><p>​现在​是​各​个​模块​的​梳理​</p><p>然后​还​需要​一​份​地​图</p><p>​和​一​份​梦​中​的​地图​</p><p><br /></p><p>​确定​每​个​词组​的​获得​顺序。​</p><p>昨​晚​兴奋​了​那么​久​今天​搞​这些​开心​吧&#xff01;​</p>",
+      "content_text": "注：​有些​可以​通行​的​区域​是​没有​可以​获得​的​词片​的，​比如​说​我​去​了​厨房，​但是​没有​获得”​我​是​厨房\"​的​词片。​但是​我​可以​探索​这个​场景。​\n\n\n​现在​是​各​个​模块​的​梳理​\n然后​还​需要​一​份​地​图\n​和​一​份​梦​中​的​地图​\n\n\n​确定​每​个​词组​的​获得​顺序。​\n昨​晚​兴奋​了​那么​久​今天​搞​这些​开心​吧！​",
+      "position": {
+        "x": 540.8587163147702,
+        "y": 1007.8006337528642,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 285.71743263
+      }
+    },
+    {
+      "id": "3458764665419495443",
+      "type": "shape",
+      "content_html": "",
+      "content_text": "",
+      "position": {
+        "x": 1173.1710390448056,
+        "y": 1561.6694733408845,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 488.3333960781929,
+        "height": 349.53062199911994
+      }
+    },
+    {
+      "id": "3458764665419495521",
+      "type": "shape",
+      "content_html": "<p><span style=\"color:rgb(255,100,100)\">床</span></p>",
+      "content_text": "床",
+      "position": {
+        "x": 993.3411483957868,
+        "y": 1701.103169120317,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 84.56071389474619,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665419495793",
+      "type": "shape",
+      "content_html": "<p>墙</p>",
+      "content_text": "墙",
+      "position": {
+        "x": 993.3411483957868,
+        "y": 1552.205647835493,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665419576038",
+      "type": "shape",
+      "content_html": "<p><span style=\"color:rgb(255,100,100)\">门</span></p>",
+      "content_text": "门",
+      "position": {
+        "x": 1357.4344899646849,
+        "y": 1540.8063090648361,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665419576455",
+      "type": "shape",
+      "content_html": "<p><span style=\"color:rgb(255,100,100)\">窗</span></p>",
+      "content_text": "窗",
+      "position": {
+        "x": 1173.1710390448056,
+        "y": 1429.327775729218,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665419576880",
+      "type": "shape",
+      "content_html": "<p>NPC​对话，​获取​关键​名​词【    】</p>",
+      "content_text": "NPC​对话，​获取​关键​名​词【    】",
+      "position": {
+        "x": 2786.3110464997594,
+        "y": 461.1993110688161,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 100.0
+      }
+    },
+    {
+      "id": "3458764665419744182",
+      "type": "shape",
+      "content_html": "",
+      "content_text": "",
+      "position": {
+        "x": 1173.1710390448056,
+        "y": 2180.3059376573287,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 488.3333960781929,
+        "height": 349.53062199911994
+      }
+    },
+    {
+      "id": "3458764665419744183",
+      "type": "shape",
+      "content_html": "<p>梦床</p>",
+      "content_text": "梦床",
+      "position": {
+        "x": 993.3411483957868,
+        "y": 2319.739633436761,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 84.56071389474619,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665419744185",
+      "type": "shape",
+      "content_html": "<p>&#xff08;鬼打&#xff09;​墙</p>",
+      "content_text": "（鬼打）​墙",
+      "position": {
+        "x": 1002.7963708778864,
+        "y": 2170.8421121519373,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894526,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665419744186",
+      "type": "shape",
+      "content_html": "<p>梦门</p>",
+      "content_text": "梦门",
+      "position": {
+        "x": 1357.4344899646849,
+        "y": 2170.8421121519373,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665419744189",
+      "type": "shape",
+      "content_html": "<p>梦窗</p>",
+      "content_text": "梦窗",
+      "position": {
+        "x": 1173.1710390448056,
+        "y": 2047.9642400456623,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665419744244",
+      "type": "text",
+      "content_html": "<p><strong>正</strong>​<strong>时间</strong>​<strong>记忆</strong></p>",
+      "content_text": "正​时间​记忆",
+      "position": {
+        "x": 990.8356325844846,
+        "y": 1353.3028003428763,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 123.66258315755029
+      }
+    },
+    {
+      "id": "3458764665419744362",
+      "type": "text",
+      "content_html": "<p><strong>梦</strong>​<strong>中</strong>​<strong>世界</strong>​</p>",
+      "content_text": "梦​中​世界​",
+      "position": {
+        "x": 984.6789651403332,
+        "y": 1976.6732549161807,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 99.27841183070937
+      }
+    },
+    {
+      "id": "3458764665420080050",
+      "type": "shape",
+      "content_html": "",
+      "content_text": "",
+      "position": {
+        "x": 1693.5803210679633,
+        "y": 1561.669473340885,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 488.3333960781929,
+        "height": 349.53062199911994
+      }
+    },
+    {
+      "id": "3458764665420080148",
+      "type": "shape",
+      "content_html": "<p>书架​</p>",
+      "content_text": "书架​",
+      "position": {
+        "x": 1537.773241467724,
+        "y": 1429.327775729218,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665420080489",
+      "type": "shape",
+      "content_html": "",
+      "content_text": "",
+      "position": {
+        "x": 1693.5803210679633,
+        "y": 2180.3059376573287,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 488.3333960781929,
+        "height": 349.53062199911994
+      }
+    },
+    {
+      "id": "3458764665420080885",
+      "type": "text",
+      "content_html": "<p>门锁​着​</p><p>&#xff08;没有​钥匙&#xff09;​</p>",
+      "content_text": "门锁​着​\n（没有​钥匙）​",
+      "position": {
+        "x": 1265.172062129102,
+        "y": 1540.3243398823538,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 109.80202117415483
+      }
+    },
+    {
+      "id": "3458764665420226311",
+      "type": "shape",
+      "content_html": "<p><span style=\"background-color: transparent;\">梦</span>​<span style=\"background-color: transparent;\">中</span>门</p><p><br></p>",
+      "content_text": "梦​中门",
+      "position": {
+        "x": 1379.5910691308197,
+        "y": 544.7399624246762,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665420226312",
+      "type": "shape",
+      "content_html": "<p><br></p><p>我​是​门</p><p>​</p>",
+      "content_text": "我​是​门\n​",
+      "position": {
+        "x": 1103.3736365012799,
+        "y": 544.7399624246762,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665420226315",
+      "type": "text",
+      "content_html": "<p>我​是​门</p>",
+      "content_text": "我​是​门",
+      "position": {
+        "x": 1161.8736365012799,
+        "y": 355.51315788528996,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 43.0
+      }
+    },
+    {
+      "id": "3458764665420226316",
+      "type": "text",
+      "content_html": "<p>我​在​梦​中​</p>",
+      "content_text": "我​在​梦​中​",
+      "position": {
+        "x": 1370.0910691308197,
+        "y": 355.51315788528996,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 57.0
+      }
+    },
+    {
+      "id": "3458764665420226317",
+      "type": "text",
+      "content_html": "<p>【​描述&#xff1a;​】</p><p>​</p>",
+      "content_text": "【​描述：​】\n​",
+      "position": {
+        "x": 1093.8736365012799,
+        "y": 634.8015384700789,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 141.0
+      }
+    },
+    {
+      "id": "3458764665420226318",
+      "type": "text",
+      "content_html": "<p>【​描述&#xff1a;​】</p><p>​</p>",
+      "content_text": "【​描述：​】\n​",
+      "position": {
+        "x": 1370.0910691308197,
+        "y": 634.8015384700789,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 141.0
+      }
+    },
+    {
+      "id": "3458764665420361134",
+      "type": "text",
+      "content_html": "<p>门​锁​着​打不​开</p><p>​“我”​和​旁白​要​过​一​段​剧情​</p><p>&#34;​我​&#34;申请​过​一​个​妙手​</p><p>​【意思意思​给​个​骰子​】</p><p>​大​成功​也​不​给​过</p>",
+      "content_text": "门​锁​着​打不​开\n​“我”​和​旁白​要​过​一​段​剧情​\n\"​我​\"申请​过​一​个​妙手​\n​【意思意思​给​个​骰子​】\n​大​成功​也​不​给​过",
+      "position": {
+        "x": 1106.5673152350755,
+        "y": -15.506511068816035,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 153.61264253
+      }
+    },
+    {
+      "id": "3458764665420447418",
+      "type": "text",
+      "content_html": "<p>【​可以​跳转​到​梦​中​书架​】</p><p>​【​然后​在​梦​中​书架​里</p><p><br /></p>",
+      "content_text": "【​可以​跳转​到​梦​中​书架​】\n​【​然后​在​梦​中​书架​里",
+      "position": {
+        "x": 1376.9515378751616,
+        "y": 695.0434906851383,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 154.72093749
+      }
+    },
+    {
+      "id": "3458764665420447657",
+      "type": "shape",
+      "content_html": "<p>梦​<span style=\"color:rgb(255,100,100)\">书架</span>​</p>",
+      "content_text": "梦​书架​",
+      "position": {
+        "x": 1599.2966471472928,
+        "y": 2047.9642400456623,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665420601305",
+      "type": "shape",
+      "content_html": "<p>梦窗​外</p>",
+      "content_text": "梦窗​外",
+      "position": {
+        "x": 1276.642197903751,
+        "y": 1924.9808131193954,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665420601411",
+      "type": "text",
+      "content_html": "<p>获得​<span style=\"color:rgb(255,100,100)\">【玩</span>​<span style=\"color:rgb(255,100,100)\">具】</span></p>",
+      "content_text": "获得​【玩​具】",
+      "position": {
+        "x": 1279.5494756171356,
+        "y": 1878.1394645110104,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 109.28571428571429
+      }
+    },
+    {
+      "id": "3458764665420682842",
+      "type": "text",
+      "content_html": "<p>如果​跟​随​内心​睡回笼觉去​了​</p><p>会​达成​一​睡​不​醒​结局​【结局​跳转回​梦门​】​</p><p>【​可以​单独​写​个​passage&#xff0c;​不​要​跳回​梦​床​】</p><p>【​只​是​假装​回到​梦床​了​】</p><p>【​实际上​是​结局​页面​】</p>",
+      "content_text": "如果​跟​随​内心​睡回笼觉去​了​\n会​达成​一​睡​不​醒​结局​【结局​跳转回​梦门​】​\n【​可以​单独​写​个​passage，​不​要​跳回​梦​床​】\n【​只​是​假装​回到​梦床​了​】\n【​实际上​是​结局​页面​】",
+      "position": {
+        "x": 1077.6981332486305,
+        "y": 2455.0441288580582,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 297.38758449
+      }
+    },
+    {
+      "id": "3458764665420909163",
+      "type": "text",
+      "content_html": "<p>标红​的​是​第一​次​获得​该​词条​的​点。​</p><p>e.g.   $ HeartGet &#61;&#61; true​</p><p>到​时候​在​写文段​的​时候​</p><p><br /></p><p>​是​不​是​还​需要​</p><p>set location 来确​认​位​置&#xff1f;​</p>",
+      "content_text": "标红​的​是​第一​次​获得​该​词条​的​点。​\ne.g.   $ HeartGet == true​\n到​时候​在​写文段​的​时候​\n\n\n​是​不​是​还​需要​\nset location 来确​认​位​置？​",
+      "position": {
+        "x": 361.4496639081324,
+        "y": 1796.5021971049907,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 367.50429642595935
+      }
+    },
+    {
+      "id": "3458764665421034043",
+      "type": "shape",
+      "content_html": "<p><span style=\"background-color:transparent\">梦中书</span></p>",
+      "content_text": "梦中书",
+      "position": {
+        "x": 1693.5803210679633,
+        "y": 1900.1515229940298,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665421034631",
+      "type": "shape",
+      "content_html": "<p>读​书</p>",
+      "content_text": "读​书",
+      "position": {
+        "x": 1537.773241467724,
+        "y": 1326.3761507250174,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665421034805",
+      "type": "shape",
+      "content_html": "<p><span style=\"color:rgb(255,100,100)\">电脑</span>​</p>",
+      "content_text": "电脑​",
+      "position": {
+        "x": 1839.0033854357107,
+        "y": 1429.327775729218,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665421227739",
+      "type": "sticky_note",
+      "content_html": "<p>床</p>",
+      "content_text": "床",
+      "position": {
+        "x": 760.0158325701104,
+        "y": 3914.8171119084536,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665421227740",
+      "type": "sticky_note",
+      "content_html": "<p>窗</p>",
+      "content_text": "窗",
+      "position": {
+        "x": 896.918487946959,
+        "y": 3914.8171119084536,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665421227741",
+      "type": "sticky_note",
+      "content_html": "<p>门</p>",
+      "content_text": "门",
+      "position": {
+        "x": 1181.8701116036314,
+        "y": 3914.8171119084536,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665421227742",
+      "type": "sticky_note",
+      "content_html": "<p>电脑</p>",
+      "content_text": "电脑",
+      "position": {
+        "x": 1773.6397965097738,
+        "y": 3907.899321357133,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665421227743",
+      "type": "sticky_note",
+      "content_html": "<p>书架</p>",
+      "content_text": "书架",
+      "position": {
+        "x": 1324.171194041413,
+        "y": 3914.8171119084536,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665421227744",
+      "type": "sticky_note",
+      "content_html": "<p>尸体</p>",
+      "content_text": "尸体",
+      "position": {
+        "x": 2365.944660509924,
+        "y": 3914.8171119084536,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665421227745",
+      "type": "sticky_note",
+      "content_html": "<p>心</p>",
+      "content_text": "心",
+      "position": {
+        "x": 1466.4722764791945,
+        "y": 3831.6168567126692,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665421227746",
+      "type": "sticky_note",
+      "content_html": "<p>梦中</p>",
+      "content_text": "梦中",
+      "position": {
+        "x": 760.01583257011,
+        "y": 4089.183880981518,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665421227747",
+      "type": "sticky_note",
+      "content_html": "<p>记忆中</p>",
+      "content_text": "记忆中",
+      "position": {
+        "x": 896.918487946959,
+        "y": 4089.183880981518,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665421227748",
+      "type": "sticky_note",
+      "content_html": "<p>玩具</p>",
+      "content_text": "玩具",
+      "position": {
+        "x": 1039.5690291658498,
+        "y": 3831.6168567126692,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665421227749",
+      "type": "sticky_note",
+      "content_html": "<p>镜子</p>",
+      "content_text": "镜子",
+      "position": {
+        "x": 1918.4788874591347,
+        "y": 3907.899321357133,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665421227750",
+      "type": "sticky_note",
+      "content_html": "<p>相片</p>",
+      "content_text": "相片",
+      "position": {
+        "x": 2067.3424956343606,
+        "y": 3907.899321357133,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665421782956",
+      "type": "shape",
+      "content_html": "<p><span style=\"background-color:transparent\">梦</span>​<span style=\"color:rgb(255,100,100);background-color:transparent\">相片</span>​</p>",
+      "content_text": "梦​相片​",
+      "position": {
+        "x": 1839.0033854357107,
+        "y": 2232.8255154917715,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665421783512",
+      "type": "shape",
+      "content_html": "<p><span style=\"color: rgb(26, 26, 26);\">我是心</span></p>",
+      "content_text": "我是心",
+      "position": {
+        "x": 4268.6307586312505,
+        "y": 486.9128232747152,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665421783697",
+      "type": "shape",
+      "content_html": "<p><span style=\"color: rgb(26, 26, 26);\">我</span>​<span style=\"color: rgb(26, 26, 26);\">在</span>​<span style=\"color: rgb(26, 26, 26);\">记忆</span>​<span style=\"color: rgb(26, 26, 26);\">中</span>​<span style=\"color: rgb(26, 26, 26);\"> | </span>​<span style=\"color: rgb(26, 26, 26);\">我</span>​<span style=\"color: rgb(26, 26, 26);\">是</span>​<span style=\"color: rgb(26, 26, 26);\">记忆</span>​</p>",
+      "content_text": "我​在​记忆​中​ | ​我​是​记忆​",
+      "position": {
+        "x": 3816.377798205189,
+        "y": 799.0803205141541,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665422303373",
+      "type": "text",
+      "content_html": "<p>这个​房间​到​底​发生​了​什么&#xff1f;​</p><p>​有​没​有​什么​consistan​cy​的​东西​能够​让​我​编​的​</p><p><br /></p><p>这​是​一​个​童年​不幸​的​人​的​房间。​</p><p>​创伤​之​所以​留下来​就​是​因为​创伤​之后​马上​睡觉​了​所以​会​一直​留下来​然后​闪​回</p><p>​就​是​因为​主角​很​痛苦&#xff0c;​所以​梦里​的​世界​也​会​既​痛苦​又​扭曲​又​充满​对​美好​的​向往。​</p><p>​&#xff08;是​一​种​ 痛苦​的​映射​ &#43; ​隐含​的​期冀&#xff09;​的​集合​状态​</p><p><br /></p><p>背景​设定​是​从​现在​这个​时代​到​未来​某​个​时间​点</p><p>​&#xff08;主角​会​下意识​地​觉得​这个​电脑​很​复古&#xff0c;​说喜欢​任​天堂​暴露年​龄​什么​的&#xff09;​</p><p>​</p><p>游​戏​里​的​科幻​小说​和​科幻梗​也​暗示​这​是​一​个​未来​科幻​背景​的​小​故事。​</p><p><br /></p><p>房间​里​的​所有​事物​似乎​都​有所​隐瞒。​</p><p><br /></p><p><br /></p><p>​现实&#xff1a;​</p><p>​对​凶案​现场​平铺​直叙​的​描述​</p><p><br /></p><p>梦境&#xff1a;​</p><p>​包含​了​凶手​/​受害人​/​“我”​三重​投射​的​幻影。​</p><p><br /></p><p><br /></p><p><br /></p>",
+      "content_text": "这个​房间​到​底​发生​了​什么？​\n​有​没​有​什么​consistan​cy​的​东西​能够​让​我​编​的​\n\n\n这​是​一​个​童年​不幸​的​人​的​房间。​\n​创伤​之​所以​留下来​就​是​因为​创伤​之后​马上​睡觉​了​所以​会​一直​留下来​然后​闪​回\n​就​是​因为​主角​很​痛苦，​所以​梦里​的​世界​也​会​既​痛苦​又​扭曲​又​充满​对​美好​的​向往。​\n​（是​一​种​ 痛苦​的​映射​ + ​隐含​的​期冀）​的​集合​状态​\n\n\n背景​设定​是​从​现在​这个​时代​到​未来​某​个​时间​点\n​（主角​会​下意识​地​觉得​这个​电脑​很​复古，​说喜欢​任​天堂​暴露年​龄​什么​的）​\n​\n游​戏​里​的​科幻​小说​和​科幻梗​也​暗示​这​是​一​个​未来​科幻​背景​的​小​故事。​\n\n\n房间​里​的​所有​事物​似乎​都​有所​隐瞒。​\n\n\n\n\n​现实：​\n​对​凶案​现场​平铺​直叙​的​描述​\n\n\n梦境：​\n​包含​了​凶手​/​受害人​/​“我”​三重​投射​的​幻影。​",
+      "position": {
+        "x": 2949.585701798693,
+        "y": 2886.8930892137014,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 625.8014028679626
+      }
+    },
+    {
+      "id": "3458764665422655575",
+      "type": "sticky_note",
+      "content_html": "<p>是</p>",
+      "content_text": "是",
+      "position": {
+        "x": 571.275009182616,
+        "y": 3914.8171119084536,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665422655660",
+      "type": "sticky_note",
+      "content_html": "<p>在</p>",
+      "content_text": "在",
+      "position": {
+        "x": 571.275009182616,
+        "y": 4089.183880981518,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665422655849",
+      "type": "shape",
+      "content_html": "<p><span style=\"color:rgb(155,74,8)\">O</span>R</p>",
+      "content_text": "OR",
+      "position": {
+        "x": 576.2515034521496,
+        "y": 3720.3955813499583,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 360.6664510704379,
+        "height": 156.33654061797296
+      }
+    },
+    {
+      "id": "3458764665422792021",
+      "type": "sticky_note",
+      "content_html": "<p>床</p>",
+      "content_text": "床",
+      "position": {
+        "x": 910.6108416993974,
+        "y": 2944.7585344845497,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665422792022",
+      "type": "sticky_note",
+      "content_html": "<p>窗</p>",
+      "content_text": "窗",
+      "position": {
+        "x": 1221.0624653560699,
+        "y": 2944.7585344845497,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665422792023",
+      "type": "sticky_note",
+      "content_html": "<p>门</p>",
+      "content_text": "门",
+      "position": {
+        "x": 1363.15492068183,
+        "y": 3018.8837663822246,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665422792024",
+      "type": "sticky_note",
+      "content_html": "<p>电脑</p>",
+      "content_text": "电脑",
+      "position": {
+        "x": 1680.2515772990328,
+        "y": 3019.2027351164093,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665422792025",
+      "type": "sticky_note",
+      "content_html": "<p>书架</p>",
+      "content_text": "书架",
+      "position": {
+        "x": 1511.3054619007207,
+        "y": 3019.2027351164093,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665422792026",
+      "type": "sticky_note",
+      "content_html": "<p>尸体</p>",
+      "content_text": "尸体",
+      "position": {
+        "x": 2131.3329552754176,
+        "y": 3173.3493590640423,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665422792027",
+      "type": "sticky_note",
+      "content_html": "<p>原点</p>",
+      "content_text": "原点",
+      "position": {
+        "x": 1511.3054619007207,
+        "y": 2868.570601212671,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665422792030",
+      "type": "sticky_note",
+      "content_html": "<p>玩具</p>",
+      "content_text": "玩具",
+      "position": {
+        "x": 1221.0624653560699,
+        "y": 2800.0517666663877,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665422792031",
+      "type": "sticky_note",
+      "content_html": "<p>梦</p>",
+      "content_text": "梦",
+      "position": {
+        "x": 1065.7613829182883,
+        "y": 2944.7585344845497,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665422792032",
+      "type": "sticky_note",
+      "content_html": "<p>记忆</p>",
+      "content_text": "记忆",
+      "position": {
+        "x": 1680.2515772990328,
+        "y": 3173.3493590640423,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665422792033",
+      "type": "sticky_note",
+      "content_html": "<p>是</p>",
+      "content_text": "是",
+      "position": {
+        "x": 697.5655141749298,
+        "y": 2944.7585344845497,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665422792104",
+      "type": "sticky_note",
+      "content_html": "<p>我</p>",
+      "content_text": "我",
+      "position": {
+        "x": 583.536024653952,
+        "y": 2944.7585344845497,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665422792454",
+      "type": "sticky_note",
+      "content_html": "<p>镜子</p>",
+      "content_text": "镜子",
+      "position": {
+        "x": 1981.031872837636,
+        "y": 3173.3493590640423,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665422792488",
+      "type": "sticky_note",
+      "content_html": "<p>相片</p>",
+      "content_text": "相片",
+      "position": {
+        "x": 1830.7307903998544,
+        "y": 3173.3493590640423,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665422792561",
+      "type": "sticky_note",
+      "content_html": "<p>选择​上述​名​词​可​跳​转到​对​应​位​置</p>",
+      "content_text": "选择​上述​名​词​可​跳​转到​对​应​位​置",
+      "position": {
+        "x": 1111.4689711585445,
+        "y": 4089.183880981518,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 222.13758217700294,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665422892988",
+      "type": "shape",
+      "content_html": "<p>万​花筒：​我​是​尸体​</p>",
+      "content_text": "万​花筒：​我​是​尸体​",
+      "position": {
+        "x": 3816.377798205189,
+        "y": 486.9128232747152,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 200.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665422893098",
+      "type": "text",
+      "content_html": "<p>唯​一​一​个​在​“我​是”​还​可以​转​一​次​的​地方​</p>",
+      "content_text": "唯​一​一​个​在​“我​是”​还​可以​转​一​次​的​地方​",
+      "position": {
+        "x": 3932.794131129194,
+        "y": 563.1344676085015,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 166.41717525000004
+      }
+    },
+    {
+      "id": "3458764665422893315",
+      "type": "text",
+      "content_html": "<p>还是​没有​心​跳</p><p>​“我”​ 额&#xff0c;​这​似乎​没​用​</p>",
+      "content_text": "还是​没有​心​跳\n​“我”​ 额，​这​似乎​没​用​",
+      "position": {
+        "x": 4458.207917897311,
+        "y": 486.9128232747152,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 166.41717525000004
+      }
+    },
+    {
+      "id": "3458764665422893507",
+      "type": "shape",
+      "content_html": "<p><span style=\"color: rgb(26, 26, 26);\">我是梦</span></p>",
+      "content_text": "我是梦",
+      "position": {
+        "x": 4275.047933886258,
+        "y": 636.9128232747153,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665422893568",
+      "type": "text",
+      "content_html": "<p>旁白&#xff1a;​尸体​也​会​做梦​吗​</p><p><br /></p><p>​死亡​是​凉爽​的​夏夜​</p><p>供​我​无忧​的​安眠​</p>",
+      "content_text": "旁白：​尸体​也​会​做梦​吗​\n\n\n​死亡​是​凉爽​的​夏夜​\n供​我​无忧​的​安眠​",
+      "position": {
+        "x": 4471.6111370904955,
+        "y": 645.4842518461438,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 193.22361363857146
+      }
+    },
+    {
+      "id": "3458764665422893741",
+      "type": "shape",
+      "content_html": "<p><span style=\"color: rgb(26, 26, 26);\">新</span>​<span style=\"color: rgb(26, 26, 26);\">章节！</span>​<span style=\"color: rgb(26, 26, 26);\">通关CG！</span>​</p>",
+      "content_text": "新​章节！​通关CG！​",
+      "position": {
+        "x": 3816.899032733689,
+        "y": 1061.0837282654436,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665423304741",
+      "type": "shape",
+      "content_html": "<p>搜索框</p>",
+      "content_text": "搜索框",
+      "position": {
+        "x": 1839.0033854357107,
+        "y": 1326.3761507250174,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665423474124",
+      "type": "shape",
+      "content_html": "<p><span style=\"color:rgb(255,100,100)\">尸体</span>​</p>",
+      "content_text": "尸体​",
+      "position": {
+        "x": 2146.8952467608415,
+        "y": 1552.205647835493,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665423542028",
+      "type": "shape",
+      "content_html": "",
+      "content_text": "",
+      "position": {
+        "x": 2088.2048291499204,
+        "y": 2239.9935560165713,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 255.80180048919095,
+        "height": 223.5658915245117
+      }
+    },
+    {
+      "id": "3458764665423542073",
+      "type": "shape",
+      "content_html": "",
+      "content_text": "",
+      "position": {
+        "x": 2088.2048291499204,
+        "y": 1624.6518385781892,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 255.80180048919095,
+        "height": 223.5658915245117
+      }
+    },
+    {
+      "id": "3458764665423614062",
+      "type": "shape",
+      "content_html": "<p>镜子</p>",
+      "content_text": "镜子",
+      "position": {
+        "x": 2026.6969171897729,
+        "y": 1701.103169120317,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665423614083",
+      "type": "shape",
+      "content_html": "<p>梦​中​<span style=\"color:rgb(255,100,100)\">镜</span></p>",
+      "content_text": "梦​中​镜",
+      "position": {
+        "x": 2026.6969171897729,
+        "y": 2314.641561811335,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665423614319",
+      "type": "shape",
+      "content_html": "<p>需要​在​新手​教程​结束​之后​给​玩家​设定​小目标。​</p><p>【​1】​在​房间​里​逛逛​收集​信息​</p><p>【2】​想​知道​自己​是​什么样。​一​方面​是​尝试万​花筒&#xff0c;​一​方面​是​“我”​认为​自己​能​“看到”&#xff0c;​觉得​找​找​“镜子”​很​不错。​旁白​不​知​可否。​</p>",
+      "content_text": "需要​在​新手​教程​结束​之后​给​玩家​设定​小目标。​\n【​1】​在​房间​里​逛逛​收集​信息​\n【2】​想​知道​自己​是​什么样。​一​方面​是​尝试万​花筒，​一​方面​是​“我”​认为​自己​能​“看到”，​觉得​找​找​“镜子”​很​不错。​旁白​不​知​可否。​",
+      "position": {
+        "x": 370.7396265518406,
+        "y": 1456.3780963816314,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 518.2222553684444,
+        "height": 307.953940540544
+      }
+    },
+    {
+      "id": "3458764665423740217",
+      "type": "sticky_note",
+      "content_html": "<p>原点</p>",
+      "content_text": "原点",
+      "position": {
+        "x": 1620.1228176980853,
+        "y": 3831.6168567126692,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665423740228",
+      "type": "sticky_note",
+      "content_html": "",
+      "content_text": "",
+      "position": {
+        "x": 2216.643578072142,
+        "y": 3907.899321357133,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665423740335",
+      "type": "text",
+      "content_html": "<p>&#xff08;如果​有​余力​的话​可以​做​一​个​十二​个​碎片​变成​了​时钟&#xff0c;​然后​时钟​开始​疯狂​倒转​的​动画&#xff09;​&#xff08;然后​进入​最后​的​结算​章节&#xff09;​</p>",
+      "content_text": "（如果​有​余力​的话​可以​做​一​个​十二​个​碎片​变成​了​时钟，​然后​时钟​开始​疯狂​倒转​的​动画）​（然后​进入​最后​的​结算​章节）​",
+      "position": {
+        "x": 4046.4180953502696,
+        "y": 1080.941323677619,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 260.70339717
+      }
+    },
+    {
+      "id": "3458764665424520256",
+      "type": "shape",
+      "content_html": "<p>相片</p>",
+      "content_text": "相片",
+      "position": {
+        "x": 1839.0033854357107,
+        "y": 1624.6518385781892,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665445071281",
+      "type": "shape",
+      "content_html": "<p><span style=\"background-color:transparent\">巴</span>​<span style=\"background-color:transparent\">比伦塔</span></p>",
+      "content_text": "巴​比伦塔",
+      "position": {
+        "x": 1380.1133567626962,
+        "y": 1174.321511401614,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665446343520",
+      "type": "shape",
+      "content_html": "<p><span style=\"background-color:transparent\">你</span>​<span style=\"background-color:transparent\">一生</span>​<span style=\"background-color:transparent\">的</span>​<span style=\"background-color:transparent\">故事</span>​</p>",
+      "content_text": "你​一生​的​故事​",
+      "position": {
+        "x": 1539.8489361921688,
+        "y": 1174.321511401614,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 169.28273381709718,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665446343862",
+      "type": "shape",
+      "content_html": "<p>单机​发行​</p>",
+      "content_text": "单机​发行​",
+      "position": {
+        "x": 1732.3351897095843,
+        "y": 1174.321511401614,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 169.28273381709718,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665446759030",
+      "type": "text",
+      "content_html": "<p>获得​<span style=\"color:rgb(255,100,100)\">【</span>​<span style=\"color:rgb(255,100,100)\">原点】</span></p>",
+      "content_text": "获得​【​原点】",
+      "position": {
+        "x": 1374.7159298572494,
+        "y": 1120.657776610007,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 109.28571428571429
+      }
+    },
+    {
+      "id": "3458764665446759104",
+      "type": "text",
+      "content_html": "<p>【​在​电脑​的​推荐​搜索词​里会​新​增&#xff1a;​椰岛​】</p>",
+      "content_text": "【​在​电脑​的​推荐​搜索词​里会​新​增：​椰岛​】",
+      "position": {
+        "x": 1797.6610717624676,
+        "y": 1121.8107417018937,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 325.28571428571433
+      }
+    },
+    {
+      "id": "3458764665447343730",
+      "type": "text",
+      "content_html": "<p>把万花​筒​放到​原点​可以​直接​回​到​床​上​</p>",
+      "content_text": "把万花​筒​放到​原点​可以​直接​回​到​床​上​",
+      "position": {
+        "x": 1310.564712140763,
+        "y": 1054.3390070771827,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 289.28571428571433
+      }
+    },
+    {
+      "id": "3458764665447565991",
+      "type": "text",
+      "content_html": "<p>谨慎​使用&#xff0c;​但​卡关/​迷路时​或许​有​用​哦</p>",
+      "content_text": "谨慎​使用，​但​卡关/​迷路时​或许​有​用​哦",
+      "position": {
+        "x": 1307.3504264264773,
+        "y": 1080.0532927914685,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 295.7142857142857
+      }
+    },
+    {
+      "id": "3458764665449948482",
+      "type": "text",
+      "content_html": "<p>旁白会​在​书架​提示&#xff1a;​</p><p>触​发​了​一​圈​结果​发现​卡关​了​的话&#xff0c;​玩具要​在​门​之​前​找。​</p><p>或者​直接​写​窗台​的​玩具熊</p><p><br /></p>",
+      "content_text": "旁白会​在​书架​提示：​\n触​发​了​一​圈​结果​发现​卡关​了​的话，​玩具要​在​门​之​前​找。​\n或者​直接​写​窗台​的​玩具熊",
+      "position": {
+        "x": 2980.982801356474,
+        "y": 2391.656770448578,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 367.50429642595935
+      }
+    },
+    {
+      "id": "3458764665451968156",
+      "type": "text",
+      "content_html": "<p>获得​碎片​<span style=\"color:rgb(255,100,100)\">【记忆】</span></p>",
+      "content_text": "获得​碎片​【记忆】",
+      "position": {
+        "x": 2047.6041949031573,
+        "y": 1232.1834768950816,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 145.2857142857143
+      }
+    },
+    {
+      "id": "3458764665451968295",
+      "type": "text",
+      "content_html": "<p>如果​有​玩家试图​使用​ ​“我​是​记忆”​</p><p>会​出现​一​个​弹窗&#xff1a;​有​一​串​巨长​的​报错​信息。​</p><p>​“我”​和​“旁白”​总结&#xff1a;​无法​使用。​得​找​个​能​换​主语​的​环境。​</p><p><br /></p>",
+      "content_text": "如果​有​玩家试图​使用​ ​“我​是​记忆”​\n会​出现​一​个​弹窗：​有​一​串​巨长​的​报错​信息。​\n​“我”​和​“旁白”​总结：​无法​使用。​得​找​个​能​换​主语​的​环境。​",
+      "position": {
+        "x": 3009.721640134662,
+        "y": 2134.878217199334,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 452.1491333357143
+      }
+    },
+    {
+      "id": "3458764665453009048",
+      "type": "sticky_note",
+      "content_html": "<p>开始</p>",
+      "content_text": "开始",
+      "position": {
+        "x": 745.760376281557,
+        "y": 1701.103169120317,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 79.2178224929862,
+        "height": 90.76212828342138
+      }
+    },
+    {
+      "id": "3458764665453009182",
+      "type": "sticky_note",
+      "content_html": "<p>通关</p>",
+      "content_text": "通关",
+      "position": {
+        "x": 2437.9635955538215,
+        "y": 1444.8983948200434,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 79.2178224929862,
+        "height": 90.76212828342138
+      }
+    },
+    {
+      "id": "3458764665454006169",
+      "type": "text",
+      "content_html": "<p>使用​【记​忆】</p>",
+      "content_text": "使用​【记​忆】",
+      "position": {
+        "x": 2215.3974196410886,
+        "y": 1426.1064417064542,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 109.28571428571429
+      }
+    },
+    {
+      "id": "3458764665458864603",
+      "type": "text",
+      "content_html": "<p>搜索&#xff1a;​玩具</p>",
+      "content_text": "搜索：​玩具",
+      "position": {
+        "x": 1894.6194137609898,
+        "y": 1211.153678872415,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 91.28571428571429
+      }
+    },
+    {
+      "id": "3458764665459552865",
+      "type": "shape",
+      "content_html": "<p><span>床</span></p>",
+      "content_text": "床",
+      "position": {
+        "x": 3492.0698327028945,
+        "y": 2326.0616908278294,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665459783101",
+      "type": "shape",
+      "content_html": "<p><span style=\"color: rgb(26, 26, 26);\">点击：</span>​<span style=\"color: rgb(26, 26, 26);\">“调整万</span>​<span style=\"color: rgb(26, 26, 26);\">花筒”</span>​</p>",
+      "content_text": "点击：​“调整万​花筒”​",
+      "position": {
+        "x": 3831.8017531743603,
+        "y": 2326.0616908278294,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 200.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665459783206",
+      "type": "shape",
+      "content_html": "<p>万​花筒​调整​passage</p>",
+      "content_text": "万​花筒​调整​passage",
+      "position": {
+        "x": 4191.533673645827,
+        "y": 2326.0616908278294,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 100.0
+      }
+    },
+    {
+      "id": "3458764665459783468",
+      "type": "shape",
+      "content_html": "<p>确认​调​整​后​</p><p>改变​某​个​全局​变量​</p>",
+      "content_text": "确认​调​整​后​\n改变​某​个​全局​变量​",
+      "position": {
+        "x": 3831.8017531743603,
+        "y": 2539.024806710346,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 100.0
+      }
+    },
+    {
+      "id": "3458764665459783849",
+      "type": "text",
+      "content_html": "<p>回到​床</p><p>​&#xff08;好像​可以​用re​turn宏实现&#xff0c;​好​绝望&#xff0c;​怎么​返​回​上​一​个​passage</p>",
+      "content_text": "回到​床\n​（好像​可以​用re​turn宏实现，​好​绝望，​怎么​返​回​上​一​个​passage",
+      "position": {
+        "x": 3474.0802808566814,
+        "y": 2595.5094637489096,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 270.59232488142857
+      }
+    },
+    {
+      "id": "3458764665459961992",
+      "type": "text",
+      "content_html": "<p>假​设​调到​了&#xff1a;​我​是​床</p>",
+      "content_text": "假​设​调到​了：​我​是​床",
+      "position": {
+        "x": 4189.89081650297,
+        "y": 2408.1425544200665,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 163.2857142857143
+      }
+    },
+    {
+      "id": "3458764665459962339",
+      "type": "text",
+      "content_html": "<p>$IAmBed &#61; true </p>",
+      "content_text": "$IAmBed = true",
+      "position": {
+        "x": 3826.4432981963523,
+        "y": 2621.2237494631954,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 133.71428571428572
+      }
+    },
+    {
+      "id": "3458764665460210966",
+      "type": "text",
+      "content_html": "<p><span style=\"color:rgb(255,100,100)\">第一</span>​<span style=\"color:rgb(255,100,100)\">步&#xff1a;</span>​</p>",
+      "content_text": "第一​步：​",
+      "position": {
+        "x": 3646.0193004390394,
+        "y": 2303.3635840667243,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 73.28571428571429
+      }
+    },
+    {
+      "id": "3458764665460211200",
+      "type": "shape",
+      "content_html": "<p><span style=\"color: rgb(26, 26, 26);\">点击：</span>​<span style=\"color: rgb(26, 26, 26);\">“打开万</span>​<span style=\"color: rgb(26, 26, 26);\">花筒”</span>​</p>",
+      "content_text": "点击：​“打开万​花筒”​",
+      "position": {
+        "x": 4434.269668514276,
+        "y": 2330.679130784817,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 200.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665460211288",
+      "type": "text",
+      "content_html": "<p><span style=\"color:rgb(255,100,100)\">结束</span>​<span style=\"color:rgb(255,100,100)\">上</span>​<span style=\"color:rgb(255,100,100)\">一</span>​<span style=\"color:rgb(255,100,100)\">步</span>​<span style=\"color:rgb(255,100,100)\">循</span>​<span style=\"color:rgb(255,100,100)\">环</span>​<span style=\"color:rgb(255,100,100)\">后</span>​</p><p><span style=\"color:rgb(255,100,100)\">第二</span>​<span style=\"color:rgb(255,100,100)\">步&#xff1a;</span>​</p>",
+      "content_text": "结束​上​一​步​循​环​后​\n第二​步：​",
+      "position": {
+        "x": 4182.968381126663,
+        "y": 2062.0817985017798,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 161.09609662285717
+      }
+    },
+    {
+      "id": "3458764665460211491",
+      "type": "shape",
+      "content_html": "<p><span style=\"color: rgb(26, 26, 26); background-color: transparent;\">Passage：我是床</span></p>",
+      "content_text": "Passage：我是床",
+      "position": {
+        "x": 4950.114546509727,
+        "y": 2330.679130784817,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665460211635",
+      "type": "text",
+      "content_html": "<p>设置​一​个​专门​做​Kaleidoscope​判断​的​passage&#xff0c;​会​跳​转到​这个​passage但​不​显示​给​玩家&#xff0c;​理论​上​是​可以​的​</p><p><br /></p><p>​</p><p>If $BedLocation &#61; true​</p><p>&amp;&amp;</p><p>$IAmBed &#61; true</p><p><br /></p><p>&#xff08;大概是这个意思&#xff09;</p>",
+      "content_text": "设置​一​个​专门​做​Kaleidoscope​判断​的​passage，​会​跳​转到​这个​passage但​不​显示​给​玩家，​理论​上​是​可以​的​\n\n\n​\nIf $BedLocation = true​\n&&\n$IAmBed = true\n\n\n（大概是这个意思）",
+      "position": {
+        "x": 4686.086979903151,
+        "y": 2323.798511696906,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 233.36587406263268
+      }
+    },
+    {
+      "id": "3458764665460836685",
+      "type": "text",
+      "content_html": "<p>(​可以​这么​设置​吗&#xff1f;&#xff09;​</p><p>​还是​说​我​设置​一​个​表&#xff0c;​</p><p>然后​ ​每​个​地方​对​应​一​个值&#xff0c;​</p><p>​这样​进行​管理​会​好​一点​.</p><p><br /></p><p>​完全​没​法​进行​模块化​管理&#xff0c;​纯debu​g​出错​的​屎山​的​话</p><p>​我​担心​我​做​到​一半​会​崩溃​而​死</p>",
+      "content_text": "(​可以​这么​设置​吗？）​\n​还是​说​我​设置​一​个​表，​\n然后​ ​每​个​地方​对​应​一​个值，​\n​这样​进行​管理​会​好​一点​.\n\n\n​完全​没​法​进行​模块化​管理，​纯debu​g​出错​的​屎山​的​话\n​我​担心​我​做​到​一半​会​崩溃​而​死",
+      "position": {
+        "x": 4698.193113367962,
+        "y": 2589.1105331162926,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 448.9979812185715
+      }
+    },
+    {
+      "id": "3458764665460995577",
+      "type": "text",
+      "content_html": "<p>[[调整万花筒|万花筒][$BedLocation &#61; true]]</p>",
+      "content_text": "[[调整万花筒|万花筒][$BedLocation = true]]",
+      "position": {
+        "x": 3831.8017531743603,
+        "y": 2420.9996972772096,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 270.59232488142857
+      }
+    },
+    {
+      "id": "3458764665461048641",
+      "type": "text",
+      "content_html": "<p>直接​跳​转返​回[​[​床]]</p><p>但是​在​返回​这个​链接​里​安变量​变化&#xff1f;​</p><p>哈​哈&#xff01;​他​妈​的​</p><p>[​[醒​来​|床][$BedLocation&#61;false, $IAmBed &#61; false]]</p>",
+      "content_text": "直接​跳​转返​回[​[​床]]\n但是​在​返回​这个​链接​里​安变量​变化？​\n哈​哈！​他​妈​的​\n[​[醒​来​|床][$BedLocation=false, $IAmBed = false]]",
+      "position": {
+        "x": 4825.249165479265,
+        "y": 1856.6658240381757,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 465.42978785232896
+      }
+    },
+    {
+      "id": "3458764665462148550",
+      "type": "text",
+      "content_html": "<p>而且​这样​的话​就​没有​办法​直接​用​</p><p>PassageFooter​放【​打开万​花​筒】​和​【调整万​花​筒】​了​呜呜&#xff0c;​我​的​sh​i山..​...</p>",
+      "content_text": "而且​这样​的话​就​没有​办法​直接​用​\nPassageFooter​放【​打开万​花​筒】​和​【调整万​花​筒】​了​呜呜，​我​的​sh​i山..​...",
+      "position": {
+        "x": 4704.328387765825,
+        "y": 2745.9816128749444,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 448.9979812185715
+      }
+    },
+    {
+      "id": "3458764665462335796",
+      "type": "shape",
+      "content_html": "<p><span>床</span></p>",
+      "content_text": "床",
+      "position": {
+        "x": 3562.306230760153,
+        "y": 1513.8215102647077,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665462335857",
+      "type": "shape",
+      "content_html": "<p>万花筒</p>",
+      "content_text": "万花筒",
+      "position": {
+        "x": 3882.306230760153,
+        "y": 1513.8215102647077,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 200.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665462486491",
+      "type": "shape",
+      "content_html": "<p>我是床</p>",
+      "content_text": "我是床",
+      "position": {
+        "x": 4155.341142574859,
+        "y": 1643.2868807963996,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665462486625",
+      "type": "shape",
+      "content_html": "<p><span>梦中床</span></p>",
+      "content_text": "梦中床",
+      "position": {
+        "x": 4147.858461218178,
+        "y": 1370.3291217510548,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 160.0,
+        "height": 120.0
+      }
+    },
+    {
+      "id": "3458764665462651980",
+      "type": "text",
+      "content_html": "<p>玩家​可以​转动​这个​万花​筒</p><p>​调整万​花​筒​中​的​句子​</p><p>走​向​不同​的​方向​</p>",
+      "content_text": "玩家​可以​转动​这个​万花​筒\n​调整万​花​筒​中​的​句子​\n走​向​不同​的​方向​",
+      "position": {
+        "x": 3758.6087827513934,
+        "y": 1458.6027089490835,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 210.35714285714286
+      }
+    },
+    {
+      "id": "3458764665462652220",
+      "type": "text",
+      "content_html": "<p>1</p><p>​怎么​转​这个​万花​筒</p><p>​我​就​不​知道​</p><p>我们​完蛋​了​</p>",
+      "content_text": "1\n​怎么​转​这个​万花​筒\n​我​就​不​知道​\n我们​完蛋​了​",
+      "position": {
+        "x": 4358.356719555527,
+        "y": 1420.8830263440502,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 210.35714285714286
+      }
+    },
+    {
+      "id": "3458764665462652330",
+      "type": "text",
+      "content_html": "<p>2</p><p>​我​很​希望​可以​直接​在​万花​筒页​正确​地​判断马​上​应该​去​到​哪​个​模块&#xff0c;​但是​我​发现​我​好​像​脑子​扯​不​清楚​这么​多​变量​和​逻辑。​</p>",
+      "content_text": "2\n​我​很​希望​可以​直接​在​万花​筒页​正确​地​判断马​上​应该​去​到​哪​个​模块，​但是​我​发现​我​好​像​脑子​扯​不​清楚​这么​多​变量​和​逻辑。​",
+      "position": {
+        "x": 4358.356719555527,
+        "y": 1570.5671981913663,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 210.35714285714286
+      }
+    },
+    {
+      "id": "3458764665462857062",
+      "type": "text",
+      "content_html": "<p>看​完内容​是​</p><p>可以​跳​回来​的。​</p>",
+      "content_text": "看​完内容​是​\n可以​跳​回来​的。​",
+      "position": {
+        "x": 3763.737893869039,
+        "y": 1556.1440236535425,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 210.35714285714286
+      }
+    },
+    {
+      "id": "3458764665463503559",
+      "type": "text",
+      "content_html": "<p>我​希望​玩家​能够​确​认​能​获得​全部​的​东西​之后​再​到​相片。​</p><p><br /></p>",
+      "content_text": "我​希望​玩家​能够​确​认​能​获得​全部​的​东西​之后​再​到​相片。​",
+      "position": {
+        "x": 2979.829836264587,
+        "y": 2271.282128526194,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 367.50429642595935
+      }
+    },
+    {
+      "id": "3458764665463859959",
+      "type": "text",
+      "content_html": "<p>会​提示​: ​缺少​记忆</p>",
+      "content_text": "会​提示​: ​缺少​记忆",
+      "position": {
+        "x": 1729.1095807113136,
+        "y": 2180.3059376573287,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 136.2857142857143
+      }
+    },
+    {
+      "id": "3458764665463860420",
+      "type": "text",
+      "content_html": "<p>​</p>",
+      "content_text": "​",
+      "position": {
+        "x": 1984.6169768985983,
+        "y": 2259.461971089192,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 30.85714285714286
+      }
+    },
+    {
+      "id": "3458764665463860569",
+      "type": "text",
+      "content_html": "<p><span style=\"color:rgb(255,100,100)\">获得</span>​<span style=\"color:rgb(255,100,100)\">记忆</span>​<span style=\"color:rgb(255,100,100)\">之后</span>​</p><p><span style=\"color:rgb(255,100,100)\">才</span>​<span style=\"color:rgb(255,100,100)\">会</span>​<span style=\"color:rgb(255,100,100)\">解锁</span>​<span style=\"color:rgb(255,100,100)\">相片</span>​<span style=\"color:rgb(255,100,100)\">通往</span>​<span style=\"color:rgb(255,100,100)\">镜子</span>​<span style=\"color:rgb(255,100,100)\">的</span>​<span style=\"color:rgb(255,100,100)\">道路</span>​</p>",
+      "content_text": "获得​记忆​之后​\n才​会​解锁​相片​通往​镜子​的​道路​",
+      "position": {
+        "x": 1968.6908423324182,
+        "y": 2172.5813732525653,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 239.4285714257143
+      }
+    },
+    {
+      "id": "3458764665464406984",
+      "type": "shape",
+      "content_html": "",
+      "content_text": "",
+      "position": {
+        "x": 852.9596873557977,
+        "y": 5259.5202944064795,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 488.3333960781929,
+        "height": 349.53062199911994
+      }
+    },
+    {
+      "id": "3458764665464406985",
+      "type": "shape",
+      "content_html": "<p><span style=\"color:rgb(255,100,100)\">床</span></p>",
+      "content_text": "床",
+      "position": {
+        "x": 673.1297967067788,
+        "y": 5398.953990185912,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 84.56071389474619,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464406986",
+      "type": "shape",
+      "content_html": "<p>墙</p>",
+      "content_text": "墙",
+      "position": {
+        "x": 673.1297967067788,
+        "y": 5250.056468901088,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464406987",
+      "type": "shape",
+      "content_html": "<p><span style=\"color:rgb(255,100,100)\">门</span></p>",
+      "content_text": "门",
+      "position": {
+        "x": 1037.223138275677,
+        "y": 5238.657130130431,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464406989",
+      "type": "shape",
+      "content_html": "<p><span style=\"color:rgb(255,100,100)\">窗</span>户</p>",
+      "content_text": "窗户",
+      "position": {
+        "x": 852.9596873557977,
+        "y": 5127.178596794813,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464406991",
+      "type": "shape",
+      "content_html": "",
+      "content_text": "",
+      "position": {
+        "x": 852.9596873557977,
+        "y": 5878.156758722924,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 488.3333960781929,
+        "height": 349.53062199911994
+      }
+    },
+    {
+      "id": "3458764665464406992",
+      "type": "shape",
+      "content_html": "<p>梦床</p>",
+      "content_text": "梦床",
+      "position": {
+        "x": 673.1297967067788,
+        "y": 6017.590454502356,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 84.56071389474619,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464406993",
+      "type": "shape",
+      "content_html": "<p>&#xff08;鬼打&#xff09;​墙</p>",
+      "content_text": "（鬼打）​墙",
+      "position": {
+        "x": 682.5850191888784,
+        "y": 5868.692933217532,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894526,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464406994",
+      "type": "shape",
+      "content_html": "<p>梦门</p>",
+      "content_text": "梦门",
+      "position": {
+        "x": 1037.223138275677,
+        "y": 5868.692933217532,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464406995",
+      "type": "shape",
+      "content_html": "<p>梦窗户</p>",
+      "content_text": "梦窗户",
+      "position": {
+        "x": 852.9596873557977,
+        "y": 5745.815061111257,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464406996",
+      "type": "text",
+      "content_html": "<p><strong>正</strong>​<strong>时间</strong>​<strong>记忆</strong></p>",
+      "content_text": "正​时间​记忆",
+      "position": {
+        "x": 670.6242808954768,
+        "y": 5051.153621408471,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 123.66258315755029
+      }
+    },
+    {
+      "id": "3458764665464406997",
+      "type": "text",
+      "content_html": "<p><strong>梦</strong>​<strong>中</strong>​<strong>世界</strong>​</p>",
+      "content_text": "梦​中​世界​",
+      "position": {
+        "x": 664.4676134513253,
+        "y": 5674.524075981775,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 99.27841183070937
+      }
+    },
+    {
+      "id": "3458764665464406998",
+      "type": "shape",
+      "content_html": "",
+      "content_text": "",
+      "position": {
+        "x": 1373.3689693789554,
+        "y": 5259.5202944064795,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 488.3333960781929,
+        "height": 349.53062199911994
+      }
+    },
+    {
+      "id": "3458764665464406999",
+      "type": "shape",
+      "content_html": "<p>书架​</p>",
+      "content_text": "书架​",
+      "position": {
+        "x": 1217.561889778716,
+        "y": 5127.178596794813,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464407000",
+      "type": "shape",
+      "content_html": "",
+      "content_text": "",
+      "position": {
+        "x": 1373.3689693789554,
+        "y": 5878.156758722924,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 488.3333960781929,
+        "height": 349.53062199911994
+      }
+    },
+    {
+      "id": "3458764665464407001",
+      "type": "text",
+      "content_html": "<p>门锁​着​</p><p>&#xff08;没有​钥匙&#xff09;​</p>",
+      "content_text": "门锁​着​\n（没有​钥匙）​",
+      "position": {
+        "x": 944.960710440094,
+        "y": 5238.175160947949,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 109.80202117415483
+      }
+    },
+    {
+      "id": "3458764665464407002",
+      "type": "shape",
+      "content_html": "<p>梦​<span style=\"color:rgb(255,100,100)\">书架</span>​</p>",
+      "content_text": "梦​书架​",
+      "position": {
+        "x": 1279.085295458285,
+        "y": 5745.815061111257,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464407006",
+      "type": "shape",
+      "content_html": "<p>梦窗​外</p>",
+      "content_text": "梦窗​外",
+      "position": {
+        "x": 956.4308462147429,
+        "y": 5622.83163418499,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464407008",
+      "type": "text",
+      "content_html": "<p>获得​<span style=\"color:rgb(255,100,100)\">【玩</span>​<span style=\"color:rgb(255,100,100)\">具】</span></p>",
+      "content_text": "获得​【玩​具】",
+      "position": {
+        "x": 959.3381239281276,
+        "y": 5575.990285576605,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 109.28571428571429
+      }
+    },
+    {
+      "id": "3458764665464407012",
+      "type": "text",
+      "content_html": "<p>如果​跟​随​内心​睡回笼觉去​了​</p><p>会​达成​一​睡​不​醒​结局​【结局​跳转回​梦门​】​</p><p>【​可以​单独​写​个​passage&#xff0c;​不​要​跳回​梦​床​】</p><p>【​只​是​假装​回到​梦床​了​】</p><p>【​实际上​是​结局​页面​】</p>",
+      "content_text": "如果​跟​随​内心​睡回笼觉去​了​\n会​达成​一​睡​不​醒​结局​【结局​跳转回​梦门​】​\n【​可以​单独​写​个​passage，​不​要​跳回​梦​床​】\n【​只​是​假装​回到​梦床​了​】\n【​实际上​是​结局​页面​】",
+      "position": {
+        "x": 775.1040082359963,
+        "y": 6116.201542456315,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 297.38758449
+      }
+    },
+    {
+      "id": "3458764665464407013",
+      "type": "shape",
+      "content_html": "<p><span style=\"background-color:transparent\">梦中书</span></p>",
+      "content_text": "梦中书",
+      "position": {
+        "x": 1373.3689693789554,
+        "y": 5598.002344059624,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464407017",
+      "type": "shape",
+      "content_html": "<p>读​书</p>",
+      "content_text": "读​书",
+      "position": {
+        "x": 1217.561889778716,
+        "y": 5024.226971790612,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464407019",
+      "type": "shape",
+      "content_html": "<p><span style=\"color:rgb(255,100,100)\">电脑</span>​</p>",
+      "content_text": "电脑​",
+      "position": {
+        "x": 1518.7920337467028,
+        "y": 5127.178596794813,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464407020",
+      "type": "shape",
+      "content_html": "<p><span style=\"color:rgb(155,74,8)\">我</span>​<span style=\"color:rgb(155,74,8)\">是</span>​<span style=\"color:rgb(155,74,8)\">梦</span></p>",
+      "content_text": "我​是​梦",
+      "position": {
+        "x": 515.5123263339912,
+        "y": 5575.990285576605,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 133.34785355403918,
+        "height": 79.13399806523375
+      }
+    },
+    {
+      "id": "3458764665464407021",
+      "type": "shape",
+      "content_html": "<p><span style=\"background-color:transparent\">梦</span>​<span style=\"color:rgb(255,100,100);background-color:transparent\">相片</span>​</p>",
+      "content_text": "梦​相片​",
+      "position": {
+        "x": 1518.7920337467028,
+        "y": 5930.676336557366,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464407023",
+      "type": "shape",
+      "content_html": "<p>搜索框</p>",
+      "content_text": "搜索框",
+      "position": {
+        "x": 1518.7920337467028,
+        "y": 5024.226971790612,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464407025",
+      "type": "shape",
+      "content_html": "<p><span style=\"color:rgb(255,100,100)\">尸体</span>​</p>",
+      "content_text": "尸体​",
+      "position": {
+        "x": 1826.6838950718336,
+        "y": 5250.056468901088,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464407026",
+      "type": "shape",
+      "content_html": "",
+      "content_text": "",
+      "position": {
+        "x": 1767.9934774609126,
+        "y": 5937.844377082166,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 255.80180048919095,
+        "height": 223.5658915245117
+      }
+    },
+    {
+      "id": "3458764665464407027",
+      "type": "shape",
+      "content_html": "",
+      "content_text": "",
+      "position": {
+        "x": 1767.9934774609126,
+        "y": 5322.502659643784,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 255.80180048919095,
+        "height": 223.5658915245117
+      }
+    },
+    {
+      "id": "3458764665464407028",
+      "type": "shape",
+      "content_html": "<p>镜子</p>",
+      "content_text": "镜子",
+      "position": {
+        "x": 1706.485565500765,
+        "y": 5398.953990185912,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464407029",
+      "type": "shape",
+      "content_html": "<p>梦​中​<span style=\"color:rgb(255,100,100)\">镜</span></p>",
+      "content_text": "梦​中​镜",
+      "position": {
+        "x": 1706.485565500765,
+        "y": 6012.49238287693,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464407031",
+      "type": "shape",
+      "content_html": "<p>相片</p>",
+      "content_text": "相片",
+      "position": {
+        "x": 1518.7920337467028,
+        "y": 5322.502659643784,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464407040",
+      "type": "shape",
+      "content_html": "<p><span style=\"background-color:transparent\">巴</span>​<span style=\"background-color:transparent\">比伦塔</span></p>",
+      "content_text": "巴​比伦塔",
+      "position": {
+        "x": 1059.9020050736883,
+        "y": 4872.172332467208,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464407042",
+      "type": "shape",
+      "content_html": "<p><span style=\"background-color:transparent\">你</span>​<span style=\"background-color:transparent\">一生</span>​<span style=\"background-color:transparent\">的</span>​<span style=\"background-color:transparent\">故事</span>​</p>",
+      "content_text": "你​一生​的​故事​",
+      "position": {
+        "x": 1219.637584503161,
+        "y": 4872.172332467208,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 169.28273381709718,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464407044",
+      "type": "shape",
+      "content_html": "<p>单机​发行​</p>",
+      "content_text": "单机​发行​",
+      "position": {
+        "x": 1412.1238380205764,
+        "y": 4872.172332467208,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 169.28273381709718,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464407046",
+      "type": "text",
+      "content_html": "<p>获得​<span style=\"color:rgb(255,100,100)\">【</span>​<span style=\"color:rgb(255,100,100)\">原点】</span></p>",
+      "content_text": "获得​【​原点】",
+      "position": {
+        "x": 1054.5045781682416,
+        "y": 4818.508597675602,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 109.28571428571429
+      }
+    },
+    {
+      "id": "3458764665464407047",
+      "type": "text",
+      "content_html": "<p>【​在​电脑​的​推荐​搜索词​里会​新​增&#xff1a;​椰岛​】</p>",
+      "content_text": "【​在​电脑​的​推荐​搜索词​里会​新​增：​椰岛​】",
+      "position": {
+        "x": 1477.4497200734597,
+        "y": 4819.661562767488,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 325.28571428571433
+      }
+    },
+    {
+      "id": "3458764665464407048",
+      "type": "text",
+      "content_html": "<p>把万花​筒​放到​原点​可以​直接​回​到​床​上​</p>",
+      "content_text": "把万花​筒​放到​原点​可以​直接​回​到​床​上​",
+      "position": {
+        "x": 990.3533604517551,
+        "y": 4752.1898281427775,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 289.28571428571433
+      }
+    },
+    {
+      "id": "3458764665464407049",
+      "type": "text",
+      "content_html": "<p>谨慎​使用&#xff0c;​但​卡关/​迷路时​或许​有​用​哦</p>",
+      "content_text": "谨慎​使用，​但​卡关/​迷路时​或许​有​用​哦",
+      "position": {
+        "x": 987.1390747374693,
+        "y": 4777.904113857064,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 295.7142857142857
+      }
+    },
+    {
+      "id": "3458764665464407051",
+      "type": "text",
+      "content_html": "<p>获得​碎片​<span style=\"color:rgb(255,100,100)\">【记忆】</span></p>",
+      "content_text": "获得​碎片​【记忆】",
+      "position": {
+        "x": 1727.3928432141495,
+        "y": 4930.034297960677,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 145.2857142857143
+      }
+    },
+    {
+      "id": "3458764665464407052",
+      "type": "text",
+      "content_html": "<p>如果​有​玩家试图​使用​ ​“我​是​记忆”​</p><p>会​出现​一​个​弹窗&#xff1a;​有​一​串​巨长​的​报错​信息。​</p><p>​“我”​和​“旁白”​总结&#xff1a;​无法​使用。​得​找​个​能​换​主语​的​环境。​</p><p><br /></p>",
+      "content_text": "如果​有​玩家试图​使用​ ​“我​是​记忆”​\n会​出现​一​个​弹窗：​有​一​串​巨长​的​报错​信息。​\n​“我”​和​“旁白”​总结：​无法​使用。​得​找​个​能​换​主语​的​环境。​",
+      "position": {
+        "x": 1880.8245527384663,
+        "y": 5000.776616760957,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 452.1491333357143
+      }
+    },
+    {
+      "id": "3458764665464407053",
+      "type": "text",
+      "content_html": "",
+      "content_text": "",
+      "position": {
+        "x": 2001.609692915127,
+        "y": 5175.273137170206,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 137.57142857142858
+      }
+    },
+    {
+      "id": "3458764665464407054",
+      "type": "sticky_note",
+      "content_html": "<p>开始</p>",
+      "content_text": "开始",
+      "position": {
+        "x": 425.54902459254913,
+        "y": 5398.953990185912,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 79.2178224929862,
+        "height": 90.76212828342138
+      }
+    },
+    {
+      "id": "3458764665464407056",
+      "type": "sticky_note",
+      "content_html": "<p>通关</p>",
+      "content_text": "通关",
+      "position": {
+        "x": 2117.7522438648134,
+        "y": 5142.7492158856385,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 79.2178224929862,
+        "height": 90.76212828342138
+      }
+    },
+    {
+      "id": "3458764665464407058",
+      "type": "text",
+      "content_html": "<p>使用​【​我​】【​是​】【​记忆】</p>",
+      "content_text": "使用​【​我​】【​是​】【​记忆】",
+      "position": {
+        "x": 1949.1860679520807,
+        "y": 5123.957262772049,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 217.2857142857143
+      }
+    },
+    {
+      "id": "3458764665464407059",
+      "type": "text",
+      "content_html": "<p>搜索&#xff1a;​我​是​谁​</p>",
+      "content_text": "搜索：​我​是​谁​",
+      "position": {
+        "x": 1574.408062071982,
+        "y": 4909.00449993801,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 109.28571428571429
+      }
+    },
+    {
+      "id": "3458764665464407060",
+      "type": "text",
+      "content_html": "<p>​</p>",
+      "content_text": "​",
+      "position": {
+        "x": 2237.3611551113067,
+        "y": 4917.048821237095,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 452.1491333357143
+      }
+    },
+    {
+      "id": "3458764665464407061",
+      "type": "text",
+      "content_html": "<p>会​提示​: ​缺少​记忆</p>",
+      "content_text": "会​提示​: ​缺少​记忆",
+      "position": {
+        "x": 1389.7762470923399,
+        "y": 5919.558454800851,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 136.2857142857143
+      }
+    },
+    {
+      "id": "3458764665464407063",
+      "type": "text",
+      "content_html": "<p>​</p>",
+      "content_text": "​",
+      "position": {
+        "x": 1664.4056252095904,
+        "y": 5957.312792154787,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 30.85714285714286
+      }
+    },
+    {
+      "id": "3458764665464407064",
+      "type": "text",
+      "content_html": "<p><span style=\"color:rgb(255,100,100)\">获得</span>​<span style=\"color:rgb(255,100,100)\">记忆</span>​<span style=\"color:rgb(255,100,100)\">之后</span>​</p><p><span style=\"color:rgb(255,100,100)\">才</span>​<span style=\"color:rgb(255,100,100)\">会</span>​<span style=\"color:rgb(255,100,100)\">解锁</span>​<span style=\"color:rgb(255,100,100)\">相片</span>​<span style=\"color:rgb(255,100,100)\">通往</span>​<span style=\"color:rgb(255,100,100)\">镜子</span>​<span style=\"color:rgb(255,100,100)\">的</span>​<span style=\"color:rgb(255,100,100)\">道路</span>​</p>",
+      "content_text": "获得​记忆​之后​\n才​会​解锁​相片​通往​镜子​的​道路​",
+      "position": {
+        "x": 1706.485565500765,
+        "y": 5900.741363583358,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 239.4285714257143
+      }
+    },
+    {
+      "id": "3458764665464407098",
+      "type": "sticky_note",
+      "content_html": "<p>以下​是​</p><p>超级​冗杂版</p><p>​全​passag​e导向​</p>",
+      "content_text": "以下​是​\n超级​冗杂版\n​全​passag​e导向​",
+      "position": {
+        "x": 488.47761953148495,
+        "y": 4520.009770834223,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 512.2419866329818,
+        "height": 333.68906557805667
+      }
+    },
+    {
+      "id": "3458764665464407199",
+      "type": "shape",
+      "content_html": "<p><span style=\"background-color:transparent;color:rgb(6,116,41)\">我是床</span></p>",
+      "content_text": "我是床",
+      "position": {
+        "x": 673.7597420266588,
+        "y": 5501.473048410302,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 84.56071389474619,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464407225",
+      "type": "shape",
+      "content_html": "<p><span style=\"background-color:transparent;color:rgb(6,116,41)\">我</span>​<span style=\"background-color:transparent;color:rgb(6,116,41)\">是</span>​<span style=\"background-color:transparent;color:rgb(6,116,41)\">窗户</span>​</p>",
+      "content_text": "我​是​窗户​",
+      "position": {
+        "x": 852.5459009846113,
+        "y": 5020.4794748217155,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665464407343",
+      "type": "shape",
+      "content_html": "<p><span style=\"background-color:transparent;color:rgb(6,116,41)\">我是门</span></p>",
+      "content_text": "我是门",
+      "position": {
+        "x": 1037.223138275677,
+        "y": 5020.479474821715,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665545129676",
+      "type": "sticky_note",
+      "content_html": "<p>床</p>",
+      "content_text": "床",
+      "position": {
+        "x": 593.2980553795722,
+        "y": 3388.1119183936307,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665545129690",
+      "type": "sticky_note",
+      "content_html": "<p>梦</p>",
+      "content_text": "梦",
+      "position": {
+        "x": 719.5991378173538,
+        "y": 3388.1119183936307,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665545129717",
+      "type": "sticky_note",
+      "content_html": "<p>窗</p>",
+      "content_text": "窗",
+      "position": {
+        "x": 845.9002202551355,
+        "y": 3388.1119183936307,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665545129733",
+      "type": "sticky_note",
+      "content_html": "<p>玩具</p>",
+      "content_text": "玩具",
+      "position": {
+        "x": 972.2013026929172,
+        "y": 3388.1119183936307,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665545129751",
+      "type": "sticky_note",
+      "content_html": "<p>门</p>",
+      "content_text": "门",
+      "position": {
+        "x": 1098.5023851306987,
+        "y": 3388.1119183936307,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665545129768",
+      "type": "sticky_note",
+      "content_html": "<p>原点</p>",
+      "content_text": "原点",
+      "position": {
+        "x": 1361.4498244710128,
+        "y": 3388.1119183936307,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665545129777",
+      "type": "sticky_note",
+      "content_html": "<p>书架</p>",
+      "content_text": "书架",
+      "position": {
+        "x": 1235.1487420332312,
+        "y": 3388.1119183936307,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665545129800",
+      "type": "sticky_note",
+      "content_html": "<p>电脑</p>",
+      "content_text": "电脑",
+      "position": {
+        "x": 1492.5866920042276,
+        "y": 3388.1119183936307,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665545129809",
+      "type": "sticky_note",
+      "content_html": "<p>记忆</p>",
+      "content_text": "记忆",
+      "position": {
+        "x": 1618.8877744420092,
+        "y": 3388.1119183936307,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665545129813",
+      "type": "sticky_note",
+      "content_html": "<p>相片</p>",
+      "content_text": "相片",
+      "position": {
+        "x": 1745.1888568797908,
+        "y": 3388.1119183936307,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665545129821",
+      "type": "sticky_note",
+      "content_html": "<p>镜子</p>",
+      "content_text": "镜子",
+      "position": {
+        "x": 1871.4899393175724,
+        "y": 3388.1119183936307,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665545129838",
+      "type": "sticky_note",
+      "content_html": "<p>尸体</p>",
+      "content_text": "尸体",
+      "position": {
+        "x": 2005.031872837636,
+        "y": 3388.1119183936307,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 126.30108243778167,
+        "height": 144.70676781816192
+      }
+    },
+    {
+      "id": "3458764665620812279",
+      "type": "shape",
+      "content_html": "<p>我​是​镜子​</p>",
+      "content_text": "我​是​镜子​",
+      "position": {
+        "x": 2026.6969171897729,
+        "y": 1608.905697062809,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 103.47115885894527,
+        "height": 47.95004922731596
+      }
+    },
+    {
+      "id": "3458764665620812622",
+      "type": "text",
+      "content_html": "<p>使用​【镜子​】</p>",
+      "content_text": "使用​【镜子​】",
+      "position": {
+        "x": 2096.857024265644,
+        "y": 1654.880721676467,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 109.28571428571429
+      }
+    },
+    {
+      "id": "3458764665620812799",
+      "type": "text",
+      "content_html": "<p>去​梦里&#xff1a;​使用​【梦​】</p><p> ​去​正​时间&#xff1a;​【放下万​花​筒】</p>",
+      "content_text": "去​梦里：​使用​【梦​】\n ​去​正​时间：​【放下万​花​筒】",
+      "position": {
+        "x": 1920.248302602455,
+        "y": 1839.568035939582,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 232.79847040285716
+      }
+    },
+    {
+      "id": "3458764665620877247",
+      "type": "text",
+      "content_html": "<p>去​梦里&#xff1a;​使用​【梦​】</p><p> ​去​正​时间&#xff1a;​【放下万​花​筒】</p>",
+      "content_text": "去​梦里：​使用​【梦​】\n ​去​正​时间：​【放下万​花​筒】",
+      "position": {
+        "x": 2322.139006798313,
+        "y": 1928.459349216696,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 232.79847040285716
+      }
+    },
+    {
+      "id": "3458764665620877274",
+      "type": "text",
+      "content_html": "<p>去​梦里&#xff1a;​使用​【梦​】</p><p> ​去​正​时间&#xff1a;​【放下万​花​筒】</p>",
+      "content_text": "去​梦里：​使用​【梦​】\n ​去​正​时间：​【放下万​花​筒】",
+      "position": {
+        "x": 1578.5989457207093,
+        "y": 1796.5021971049907,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 232.79847040285716
+      }
+    },
+    {
+      "id": "3458764665620877282",
+      "type": "text",
+      "content_html": "<p>去​梦里&#xff1a;​使用​【梦​】</p><p> ​去​正​时间&#xff1a;​【放下万​花​筒】</p>",
+      "content_text": "去​梦里：​使用​【梦​】\n ​去​正​时间：​【放下万​花​筒】",
+      "position": {
+        "x": 1171.9051795050877,
+        "y": 1788.1394645110106,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 232.79847040285716
+      }
+    },
+    {
+      "id": "3458764665620877312",
+      "type": "text",
+      "content_html": "<p>去​梦里&#xff1a;​使用​【梦​】</p><p> ​去​正​时间&#xff1a;​【放下万​花​筒】</p>",
+      "content_text": "去​梦里：​使用​【梦​】\n ​去​正​时间：​【放下万​花​筒】",
+      "position": {
+        "x": 763.4809578978386,
+        "y": 1992.9527779656817,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 232.79847040285716
+      }
+    },
+    {
+      "id": "3458764665620877356",
+      "type": "text",
+      "content_html": "<p>使用​【​书​架​】</p><p> </p>",
+      "content_text": "使用​【​书​架​】",
+      "position": {
+        "x": 1599.2966471472928,
+        "y": 1387.5350131350258,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 232.79847040285716
+      }
+    },
+    {
+      "id": "3458764665620877535",
+      "type": "text",
+      "content_html": "<p>使用​【​电脑​】</p><p><br /></p>",
+      "content_text": "使用​【​电脑​】",
+      "position": {
+        "x": 1911.303154151222,
+        "y": 1387.5350131350258,
+        "origin": "center",
+        "relativeTo": "canvas_center"
+      },
+      "geometry": {
+        "width": 232.79847040285716
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "3458764665303764398",
+      "from": "3458764665303764135",
+      "to": "3458764665303764397",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665303867884",
+      "from": "3458764665303764397",
+      "to": "3458764665303867882",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665304206484",
+      "from": "3458764665303867882",
+      "to": "3458764665304206447",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665304206507",
+      "from": "3458764665304206447",
+      "to": "3458764665303867882",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665308741817",
+      "from": "3458764665303867882",
+      "to": "3458764665308741377",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665308954089",
+      "from": "3458764665308741377",
+      "to": "3458764665307775657",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665313105048",
+      "from": "3458764665312795657",
+      "to": "3458764665313104954",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665313554112",
+      "from": "3458764665313104954",
+      "to": "3458764665312795657",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665317147608",
+      "from": "3458764665308741377",
+      "to": "3458764665308403468",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665415762072",
+      "from": "3458764665415762071",
+      "to": "3458764665415762069",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665415762073",
+      "from": "3458764665415762071",
+      "to": "3458764665415762070",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665415762288",
+      "from": "3458764665304997240",
+      "to": "3458764665415762071",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665415913285",
+      "from": "3458764665415762069",
+      "to": "3458764665415913116",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665417997979",
+      "from": "3458764665417898749",
+      "to": "3458764665417997987",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665418164258",
+      "from": "3458764665305457067",
+      "to": "3458764665417898749",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665418255143",
+      "from": "3458764665418255142",
+      "to": "3458764665418255140",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665418255144",
+      "from": "3458764665418255142",
+      "to": "3458764665418255141",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665418255171",
+      "from": "3458764665305457067",
+      "to": "3458764665418255142",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665419348261",
+      "from": "3458764665304997419",
+      "to": "3458764665419348228",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665419348571",
+      "from": "3458764665307775657",
+      "to": "3458764665419348452",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665419576148",
+      "from": "3458764665419495521",
+      "to": "3458764665419495793",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665419661934",
+      "from": "3458764665417997987",
+      "to": "3458764665419576880",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665419662245",
+      "from": "3458764665419576455",
+      "to": "3458764665419576038",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665420226313",
+      "from": "3458764665419348228",
+      "to": "3458764665420226311",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665420226314",
+      "from": "3458764665419348228",
+      "to": "3458764665420226312",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665420447718",
+      "from": "3458764665419744186",
+      "to": "3458764665420447657",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665420447890",
+      "from": "3458764665419495793",
+      "to": "3458764665419576455",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665420601086",
+      "from": "3458764665419576455",
+      "to": "3458764665419744189",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665420601393",
+      "from": "3458764665419744189",
+      "to": "3458764665420601305",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665420682340",
+      "from": "3458764665419576038",
+      "to": "3458764665419744186",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665420682800",
+      "from": "3458764665419744186",
+      "to": "3458764665419744183",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665421034039",
+      "from": "3458764665420447657",
+      "to": "3458764665421034043",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665421034440",
+      "from": "3458764665419495521",
+      "to": "3458764665419744183",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665421034518",
+      "from": "3458764665420447657",
+      "to": "3458764665420080148",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665421034624",
+      "from": "3458764665420080148",
+      "to": "3458764665421034631",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665421783688",
+      "from": "3458764665417998795",
+      "to": "3458764665421783697",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665422303249",
+      "from": "3458764665420080148",
+      "to": "3458764665421034805",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665422893078",
+      "from": "3458764665422892988",
+      "to": "3458764665421783512",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665422893535",
+      "from": "3458764665422892988",
+      "to": "3458764665422893507",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665422893740",
+      "from": "3458764665421783697",
+      "to": "3458764665422893741",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665423304742",
+      "from": "3458764665421034805",
+      "to": "3458764665423304741",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665423614305",
+      "from": "3458764665419495521",
+      "to": "3458764665423614319",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665425252640",
+      "from": "3458764665420447657",
+      "to": "3458764665419744186",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665425296208",
+      "from": "3458764665421782956",
+      "to": "3458764665423614083",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665425758430",
+      "from": "3458764665424520256",
+      "to": "3458764665420080148",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665425851969",
+      "from": "3458764665421034805",
+      "to": "3458764665420080148",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665425852752",
+      "from": "3458764665423614083",
+      "to": "3458764665421782956",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665433443412",
+      "from": "3458764665421782956",
+      "to": "3458764665424520256",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665433443890",
+      "from": "3458764665423614083",
+      "to": "3458764665423614062",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665445071273",
+      "from": "3458764665421034631",
+      "to": "3458764665445071281",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665446343857",
+      "from": "3458764665421034631",
+      "to": "3458764665446343520",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665446574083",
+      "from": "3458764665421034631",
+      "to": "3458764665446343862",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665453008950",
+      "from": "3458764665423474124",
+      "to": "3458764665453009182",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665453009172",
+      "from": "3458764665453009048",
+      "to": "3458764665419495521",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665459783091",
+      "from": "3458764665459552865",
+      "to": "3458764665459783101",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665459783207",
+      "from": "3458764665459783101",
+      "to": "3458764665459783206",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665460211485",
+      "from": "3458764665460211200",
+      "to": "3458764665460211491",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665460617074",
+      "from": "3458764665459552865",
+      "to": "3458764665460211200",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665460617798",
+      "from": "3458764665459783206",
+      "to": "3458764665459783468",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665460689970",
+      "from": "3458764665459783468",
+      "to": "3458764665459552865",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665461048548",
+      "from": "3458764665460211491",
+      "to": "3458764665459552865",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665462335859",
+      "from": "3458764665462335796",
+      "to": "3458764665462335857",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665462652669",
+      "from": "3458764665462486625",
+      "to": "3458764665462335796",
+      "caption_html": "<p>放下万花筒</p>",
+      "caption_text": "放下万花筒"
+    },
+    {
+      "id": "3458764665462652754",
+      "from": "3458764665462486491",
+      "to": "3458764665462335796",
+      "caption_html": "<p>放下万花筒</p>",
+      "caption_text": "放下万花筒"
+    },
+    {
+      "id": "3458764665464406988",
+      "from": "3458764665464406985",
+      "to": "3458764665464406986",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464406990",
+      "from": "3458764665464406989",
+      "to": "3458764665464406987",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407003",
+      "from": "3458764665464406994",
+      "to": "3458764665464407002",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407004",
+      "from": "3458764665464406986",
+      "to": "3458764665464406989",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407005",
+      "from": "3458764665464406989",
+      "to": "3458764665464406995",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407007",
+      "from": "3458764665464406995",
+      "to": "3458764665464407006",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407009",
+      "from": "3458764665464407006",
+      "to": "3458764665464406989",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407010",
+      "from": "3458764665464406987",
+      "to": "3458764665464406994",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407011",
+      "from": "3458764665464406994",
+      "to": "3458764665464406992",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407014",
+      "from": "3458764665464407002",
+      "to": "3458764665464407013",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407015",
+      "from": "3458764665464406985",
+      "to": "3458764665464406992",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407016",
+      "from": "3458764665464407002",
+      "to": "3458764665464406999",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407018",
+      "from": "3458764665464406999",
+      "to": "3458764665464407017",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407022",
+      "from": "3458764665464406999",
+      "to": "3458764665464407019",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407024",
+      "from": "3458764665464407019",
+      "to": "3458764665464407023",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407032",
+      "from": "3458764665464407002",
+      "to": "3458764665464406994",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407033",
+      "from": "3458764665464407021",
+      "to": "3458764665464407029",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407034",
+      "from": "3458764665464407031",
+      "to": "3458764665464406999",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407035",
+      "from": "3458764665464407019",
+      "to": "3458764665464406999",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407036",
+      "from": "3458764665464407029",
+      "to": "3458764665464407021",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407037",
+      "from": "3458764665464407028",
+      "to": "3458764665464407025",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407038",
+      "from": "3458764665464407021",
+      "to": "3458764665464407031",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407039",
+      "from": "3458764665464407029",
+      "to": "3458764665464407028",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407041",
+      "from": "3458764665464407017",
+      "to": "3458764665464407040",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407043",
+      "from": "3458764665464407017",
+      "to": "3458764665464407042",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407045",
+      "from": "3458764665464407017",
+      "to": "3458764665464407044",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407055",
+      "from": "3458764665464407054",
+      "to": "3458764665464406985",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407057",
+      "from": "3458764665464407025",
+      "to": "3458764665464407056",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407062",
+      "from": "3458764665464407002",
+      "to": "3458764665464407021",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407194",
+      "from": "3458764665464406985",
+      "to": "3458764665464407199",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407220",
+      "from": "3458764665464406989",
+      "to": "3458764665464407225",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407335",
+      "from": "3458764665464406987",
+      "to": "3458764665464407343",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665480936961",
+      "from": "3458764665421034043",
+      "to": "3458764665421782956",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665482004337",
+      "from": "3458764665420601305",
+      "to": "3458764665419744189",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665620812434",
+      "from": "3458764665423614062",
+      "to": "3458764665620812279",
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665620812479",
+      "from": "3458764665620812279",
+      "to": "3458764665423474124",
+      "caption_html": "",
+      "caption_text": ""
+    }
+  ],
+  "dangling_edges": [
+    {
+      "id": "3458764665417998736",
+      "from": "3458764665312795657",
+      "to": null,
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665451108741",
+      "from": "3458764665423304741",
+      "to": null,
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665462486143",
+      "from": "3458764665462335857",
+      "to": null,
+      "caption_html": "<p>我是【梦】</p>",
+      "caption_text": "我是【梦】"
+    },
+    {
+      "id": "3458764665462486430",
+      "from": "3458764665462335857",
+      "to": null,
+      "caption_html": "<p>我是【床】</p>",
+      "caption_text": "我是【床】"
+    },
+    {
+      "id": "3458764665464407030",
+      "from": "3458764665464406985",
+      "to": null,
+      "caption_html": "",
+      "caption_text": ""
+    },
+    {
+      "id": "3458764665464407050",
+      "from": "3458764665464407023",
+      "to": null,
+      "caption_html": "",
+      "caption_text": ""
+    }
+  ],
+  "entry_node_ids": [
+    "3458764665303764135",
+    "3458764665304997240",
+    "3458764665304997419",
+    "3458764665305457067",
+    "3458764665417998795",
+    "3458764665422892988",
+    "3458764665453009048",
+    "3458764665462486491",
+    "3458764665462486625",
+    "3458764665464407054"
+  ],
+  "isolated_node_ids": [
+    "3458764665303764905",
+    "3458764665304002043",
+    "3458764665304206596",
+    "3458764665305457241",
+    "3458764665306527614",
+    "3458764665307220026",
+    "3458764665307888904",
+    "3458764665308403607",
+    "3458764665308954400",
+    "3458764665309126999",
+    "3458764665313105085",
+    "3458764665316988201",
+    "3458764665317215576",
+    "3458764665317215683",
+    "3458764665415762074",
+    "3458764665415762075",
+    "3458764665415762546",
+    "3458764665415762695",
+    "3458764665415913680",
+    "3458764665415913785",
+    "3458764665415913913",
+    "3458764665415969991",
+    "3458764665415970046",
+    "3458764665415970176",
+    "3458764665416429217",
+    "3458764665416429352",
+    "3458764665416429406",
+    "3458764665416468704",
+    "3458764665417599524",
+    "3458764665417599557",
+    "3458764665417692005",
+    "3458764665417998147",
+    "3458764665418164527",
+    "3458764665418255145",
+    "3458764665418255146",
+    "3458764665418255147",
+    "3458764665418255148",
+    "3458764665418255807",
+    "3458764665418634638",
+    "3458764665419413215",
+    "3458764665419413361",
+    "3458764665419495443",
+    "3458764665419744182",
+    "3458764665419744185",
+    "3458764665419744244",
+    "3458764665419744362",
+    "3458764665420080050",
+    "3458764665420080489",
+    "3458764665420080885",
+    "3458764665420226315",
+    "3458764665420226316",
+    "3458764665420226317",
+    "3458764665420226318",
+    "3458764665420361134",
+    "3458764665420447418",
+    "3458764665420601411",
+    "3458764665420682842",
+    "3458764665420909163",
+    "3458764665421227739",
+    "3458764665421227740",
+    "3458764665421227741",
+    "3458764665421227742",
+    "3458764665421227743",
+    "3458764665421227744",
+    "3458764665421227745",
+    "3458764665421227746",
+    "3458764665421227747",
+    "3458764665421227748",
+    "3458764665421227749",
+    "3458764665421227750",
+    "3458764665422303373",
+    "3458764665422655575",
+    "3458764665422655660",
+    "3458764665422655849",
+    "3458764665422792021",
+    "3458764665422792022",
+    "3458764665422792023",
+    "3458764665422792024",
+    "3458764665422792025",
+    "3458764665422792026",
+    "3458764665422792027",
+    "3458764665422792030",
+    "3458764665422792031",
+    "3458764665422792032",
+    "3458764665422792033",
+    "3458764665422792104",
+    "3458764665422792454",
+    "3458764665422792488",
+    "3458764665422792561",
+    "3458764665422893098",
+    "3458764665422893315",
+    "3458764665422893568",
+    "3458764665423542028",
+    "3458764665423542073",
+    "3458764665423740217",
+    "3458764665423740228",
+    "3458764665423740335",
+    "3458764665446759030",
+    "3458764665446759104",
+    "3458764665447343730",
+    "3458764665447565991",
+    "3458764665449948482",
+    "3458764665451968156",
+    "3458764665451968295",
+    "3458764665454006169",
+    "3458764665458864603",
+    "3458764665459783849",
+    "3458764665459961992",
+    "3458764665459962339",
+    "3458764665460210966",
+    "3458764665460211288",
+    "3458764665460211635",
+    "3458764665460836685",
+    "3458764665460995577",
+    "3458764665461048641",
+    "3458764665462148550",
+    "3458764665462651980",
+    "3458764665462652220",
+    "3458764665462652330",
+    "3458764665462857062",
+    "3458764665463503559",
+    "3458764665463859959",
+    "3458764665463860420",
+    "3458764665463860569",
+    "3458764665464406984",
+    "3458764665464406991",
+    "3458764665464406993",
+    "3458764665464406996",
+    "3458764665464406997",
+    "3458764665464406998",
+    "3458764665464407000",
+    "3458764665464407001",
+    "3458764665464407008",
+    "3458764665464407012",
+    "3458764665464407020",
+    "3458764665464407026",
+    "3458764665464407027",
+    "3458764665464407046",
+    "3458764665464407047",
+    "3458764665464407048",
+    "3458764665464407049",
+    "3458764665464407051",
+    "3458764665464407052",
+    "3458764665464407053",
+    "3458764665464407058",
+    "3458764665464407059",
+    "3458764665464407060",
+    "3458764665464407061",
+    "3458764665464407063",
+    "3458764665464407064",
+    "3458764665464407098",
+    "3458764665545129676",
+    "3458764665545129690",
+    "3458764665545129717",
+    "3458764665545129733",
+    "3458764665545129751",
+    "3458764665545129768",
+    "3458764665545129777",
+    "3458764665545129800",
+    "3458764665545129809",
+    "3458764665545129813",
+    "3458764665545129821",
+    "3458764665545129838",
+    "3458764665620812622",
+    "3458764665620812799",
+    "3458764665620877247",
+    "3458764665620877274",
+    "3458764665620877282",
+    "3458764665620877312",
+    "3458764665620877356",
+    "3458764665620877535"
+  ]
+}
