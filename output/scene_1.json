@@ -1,0 +1,27 @@
+{
+  "id": "scene_1",
+  "name": "场景1",
+  "source_cell_id": "dDTCziFD2_XXqGVg9KLD-1",
+  "exits": [
+    {
+      "to": "scene_2",
+      "to_name": "场景2",
+      "conditions": [
+        "KeyA"
+      ]
+    },
+    {
+      "to": "scene_3",
+      "to_name": "场景3",
+      "conditions": []
+    }
+  ],
+  "rewards": [],
+  "incoming": [
+    {
+      "from": "scene_3",
+      "from_name": "场景3",
+      "conditions": []
+    }
+  ]
+}

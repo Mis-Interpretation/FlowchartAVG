@@ -1,0 +1,57 @@
+{
+  "source": "流程图avg测试.drawio",
+  "generated_at": "2026-04-19T14:16:14",
+  "schema": {
+    "description": "AVG 流程图的场景化 JSON。index.json 是入口；每个场景一个独立 JSON 文件。",
+    "index_fields": {
+      "source": "原始 drawio 文件名。",
+      "generated_at": "本次生成的 ISO8601 本地时间。",
+      "scenes": "全部场景的清单，每项给出 id、可读名称 name、对应文件 file。按此列表可按需加载场景。",
+      "items": "全流程中玩家可获得的全部物品/线索名称（去重后）。",
+      "schema": "本字段；描述各字段的语义，供 AI agent 理解数据含义。"
+    },
+    "scene_fields": {
+      "id": "场景的稳定标识（如 scene_1），与 index.scenes[].id 对应。",
+      "name": "场景的可读名称，来自 drawio 节点文字。",
+      "source_cell_id": "原 drawio 节点 id，保留用于回溯调试，agent 可忽略。",
+      "exits": "从本场景可前往的其他场景列表。每项是一次『跳转机会』。",
+      "rewards": "停留/到达本场景时可获得的物品或线索名（字符串数组）。",
+      "incoming": "有哪些场景可以到达本场景，以及到达所需条件。用于反向推理。"
+    },
+    "exit_fields": {
+      "to": "目标场景的 id。可用来加载 <to>.json。",
+      "to_name": "目标场景的可读名称（冗余字段，便于直接展示）。",
+      "conditions": "前往该目标所需的物品/状态名数组；为空数组表示无条件。多个条件默认按『与』语义——需同时满足。"
+    },
+    "incoming_fields": {
+      "from": "来源场景的 id。",
+      "from_name": "来源场景的可读名称。",
+      "conditions": "从该来源进入本场景所需的条件数组；语义同 exit_fields.conditions。"
+    },
+    "conventions": {
+      "condition_semantics": "默认 AND。若未来引入 OR/NOT，会在该条目下新增 operator 字段并在此说明。",
+      "empty_array": "所有列表字段永远是数组（可能为空），不会是 null。",
+      "id_stability": "场景 id 由其在画布上的 (y, x) 顺序派生；只要相对位置不变，id 就稳定。"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_1",
+      "name": "场景1",
+      "file": "scene_1.json"
+    },
+    {
+      "id": "scene_2",
+      "name": "场景2",
+      "file": "scene_2.json"
+    },
+    {
+      "id": "scene_3",
+      "name": "场景3",
+      "file": "scene_3.json"
+    }
+  ],
+  "items": [
+    "keyA"
+  ]
+}

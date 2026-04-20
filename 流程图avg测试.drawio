@@ -1,0 +1,41 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="rwcDzJcR_CcouOuHlXLJ">
+    <mxGraphModel dx="640" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dDTCziFD2_XXqGVg9KLD-7" edge="1" parent="1" source="dDTCziFD2_XXqGVg9KLD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dDTCziFD2_XXqGVg9KLD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dDTCziFD2_XXqGVg9KLD-8" connectable="0" parent="dDTCziFD2_XXqGVg9KLD-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="需要：KeyA" vertex="1">
+          <mxGeometry relative="1" x="0.1085" y="2" as="geometry">
+            <mxPoint x="-6" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dDTCziFD2_XXqGVg9KLD-9" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="dDTCziFD2_XXqGVg9KLD-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="233" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dDTCziFD2_XXqGVg9KLD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="场景1" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dDTCziFD2_XXqGVg9KLD-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="场景2" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dDTCziFD2_XXqGVg9KLD-11" edge="1" parent="1" source="dDTCziFD2_XXqGVg9KLD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dDTCziFD2_XXqGVg9KLD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dDTCziFD2_XXqGVg9KLD-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="场景3" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="dDTCziFD2_XXqGVg9KLD-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="获得：keyA" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="dDTCziFD2_XXqGVg9KLD-10" edge="1" parent="1" source="dDTCziFD2_XXqGVg9KLD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.602;entryY=0.971;entryDx=0;entryDy=0;entryPerimeter=0;" target="dDTCziFD2_XXqGVg9KLD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
